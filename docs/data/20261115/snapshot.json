@@ -1,0 +1,5202 @@
+{
+  "date": "20261115",
+  "generated_at": "2026-11-15 04:20:44",
+  "requested_timeframe": "last-3-d",
+  "resolved_timeframe": "2026-11-12 2026-11-15",
+  "region": "Global",
+  "source_directory": "data_20261115",
+  "snapshots": [
+    {
+      "keyword": "Translator",
+      "timestamp": "2026-11-15 04:01:11",
+      "filename": "related_queries_Translator_20261115_040111.json",
+      "top": [
+        {
+          "query": "english",
+          "value": 100
+        },
+        {
+          "query": "english translator",
+          "value": 99
+        },
+        {
+          "query": "translator google",
+          "value": 63
+        },
+        {
+          "query": "tagalog translator",
+          "value": 22
+        },
+        {
+          "query": "spanish",
+          "value": 21
+        },
+        {
+          "query": "spanish translator",
+          "value": 20
+        },
+        {
+          "query": "tagalog english translator",
+          "value": 20
+        },
+        {
+          "query": "language",
+          "value": 20
+        },
+        {
+          "query": "language translator",
+          "value": 19
+        },
+        {
+          "query": "translator english to tagalog",
+          "value": 17
+        },
+        {
+          "query": "english to tagalog",
+          "value": 17
+        },
+        {
+          "query": "deepl translator",
+          "value": 14
+        },
+        {
+          "query": "deepl",
+          "value": 13
+        },
+        {
+          "query": "hindi translator",
+          "value": 12
+        },
+        {
+          "query": "spanish english translator",
+          "value": 11
+        },
+        {
+          "query": "morse translator",
+          "value": 10
+        },
+        {
+          "query": "translator english to spanish",
+          "value": 10
+        },
+        {
+          "query": "morse code translator",
+          "value": 10
+        },
+        {
+          "query": "ai translator",
+          "value": 10
+        },
+        {
+          "query": "hindi english translator",
+          "value": 9
+        },
+        {
+          "query": "morse code",
+          "value": 9
+        },
+        {
+          "query": "hindi to english translator",
+          "value": 9
+        },
+        {
+          "query": "online translator",
+          "value": 8
+        },
+        {
+          "query": "chinese translator",
+          "value": 8
+        },
+        {
+          "query": "binary translator",
+          "value": 8
+        }
+      ],
+      "rising": [
+        {
+          "query": "english to marathi translator",
+          "value": 90
+        },
+        {
+          "query": "google translator from english to hindi",
+          "value": 70
+        },
+        {
+          "query": "english to gujarati translator",
+          "value": 60
+        },
+        {
+          "query": "hindi english translator",
+          "value": 50
+        },
+        {
+          "query": "hindi to english translator",
+          "value": 50
+        },
+        {
+          "query": "english to kannada translator",
+          "value": 40
+        },
+        {
+          "query": "hindi translator",
+          "value": 40
+        }
+      ]
+    },
+    {
+      "keyword": "Generator",
+      "timestamp": "2026-11-15 04:01:11",
+      "filename": "related_queries_Generator_20261115_040111.json",
+      "top": [
+        {
+          "query": "ai generator",
+          "value": 100
+        },
+        {
+          "query": "video generator",
+          "value": 42
+        },
+        {
+          "query": "video ai generator",
+          "value": 36
+        },
+        {
+          "query": "random generator",
+          "value": 31
+        },
+        {
+          "query": "free ai generator",
+          "value": 31
+        },
+        {
+          "query": "image generator",
+          "value": 30
+        },
+        {
+          "query": "qr generator",
+          "value": 30
+        },
+        {
+          "query": "number generator",
+          "value": 28
+        },
+        {
+          "query": "qr code generator",
+          "value": 26
+        },
+        {
+          "query": "qr code",
+          "value": 26
+        },
+        {
+          "query": "name generator",
+          "value": 25
+        },
+        {
+          "query": "font generator",
+          "value": 24
+        },
+        {
+          "query": "font",
+          "value": 24
+        },
+        {
+          "query": "ai image generator",
+          "value": 23
+        },
+        {
+          "query": "random number generator",
+          "value": 18
+        },
+        {
+          "query": "text generator",
+          "value": 17
+        },
+        {
+          "query": "ai video generator free",
+          "value": 16
+        },
+        {
+          "query": "citation generator",
+          "value": 16
+        },
+        {
+          "query": "barcode generator",
+          "value": 15
+        },
+        {
+          "query": "solar generator",
+          "value": 14
+        },
+        {
+          "query": "power generator",
+          "value": 14
+        },
+        {
+          "query": "home generator",
+          "value": 12
+        },
+        {
+          "query": "password generator",
+          "value": 10
+        },
+        {
+          "query": "apa generator",
+          "value": 9
+        },
+        {
+          "query": "meme generator",
+          "value": 9
+        }
+      ],
+      "rising": [
+        {
+          "query": "solar powered generator for home",
+          "value": 60
+        },
+        {
+          "query": "upi qr code generator",
+          "value": 60
+        },
+        {
+          "query": "solar powered generator",
+          "value": 50
+        },
+        {
+          "query": "solar generator for home",
+          "value": 40
+        }
+      ]
+    },
+    {
+      "keyword": "Example",
+      "timestamp": "2026-11-15 04:01:11",
+      "filename": "related_queries_Example_20261115_040111.json",
+      "top": [
+        {
+          "query": "example of",
+          "value": 100
+        },
+        {
+          "query": "for example",
+          "value": 53
+        },
+        {
+          "query": "resume example",
+          "value": 2
+        },
+        {
+          "query": "check example",
+          "value": 2
+        },
+        {
+          "query": "computer",
+          "value": 1
+        },
+        {
+          "query": "example synonym",
+          "value": 1
+        },
+        {
+          "query": "cv example",
+          "value": 1
+        },
+        {
+          "query": "cover letter example",
+          "value": 1
+        },
+        {
+          "query": "for example synonym",
+          "value": 1
+        },
+        {
+          "query": "example domain",
+          "value": 1
+        },
+        {
+          "query": "xxnn xenophobia meaning in hindi dictionary with example video",
+          "value": 0
+        },
+        {
+          "query": "vlookup formula in excel with example",
+          "value": 0
+        },
+        {
+          "query": "سیکسی meaning in english with example به فارسی",
+          "value": 0
+        },
+        {
+          "query": "flyers example",
+          "value": 0
+        },
+        {
+          "query": "typical example of something",
+          "value": 0
+        },
+        {
+          "query": "xxnn xenophobia meaning in hindi dictionary with example video youtube",
+          "value": 0
+        },
+        {
+          "query": "biscayne bay for example nyt",
+          "value": 0
+        },
+        {
+          "query": "bloody caesar",
+          "value": 0
+        },
+        {
+          "query": "ivan danko",
+          "value": 0
+        },
+        {
+          "query": "stork day country",
+          "value": 0
+        },
+        {
+          "query": "سیکسی meaning in english with example به فارسی pdf",
+          "value": 0
+        },
+        {
+          "query": "biscayne bay, for example",
+          "value": 0
+        }
+      ],
+      "rising": [
+        {
+          "query": "biscayne bay for example nyt",
+          "value": 1150
+        },
+        {
+          "query": "ivan danko",
+          "value": 500
+        },
+        {
+          "query": "stork day country",
+          "value": 500
+        },
+        {
+          "query": "bloody caesar",
+          "value": 450
+        },
+        {
+          "query": "biscayne bay, for example",
+          "value": 300
+        },
+        {
+          "query": "typical example of something",
+          "value": 90
+        }
+      ]
+    },
+    {
+      "keyword": "Online",
+      "timestamp": "2026-11-15 04:01:11",
+      "filename": "related_queries_Online_20261115_040111.json",
+      "top": [
+        {
+          "query": "casino online",
+          "value": 100
+        },
+        {
+          "query": "online casino 🇩🇪 www.stefancasino.pro",
+          "value": 14
+        },
+        {
+          "query": "games online",
+          "value": 12
+        },
+        {
+          "query": "online game",
+          "value": 10
+        },
+        {
+          "query": "casino online 🇩🇪 casinod.cfd 🇩🇪",
+          "value": 9
+        },
+        {
+          "query": "casino utan spelpaus 🇸🇪 casinonisse.sbs",
+          "value": 7
+        },
+        {
+          "query": "casino utan svensk spelpaus 🇸🇪 casinonisse.sbs 🇸🇪",
+          "value": 6
+        },
+        {
+          "query": "word online",
+          "value": 5
+        },
+        {
+          "query": "online casino 🇳🇱 www.casinobino.sbs",
+          "value": 5
+        },
+        {
+          "query": "online casinos 🇩🇪 www.casinobino.sbs",
+          "value": 5
+        },
+        {
+          "query": "casino utan svensk licens 🇸🇪 casinonisse.sbs",
+          "value": 5
+        },
+        {
+          "query": "casino utan spelpaus 🇸🇪 casinonisse.com 🇸🇪",
+          "value": 5
+        },
+        {
+          "query": "online casinos 🇬🇧 www.casinobino.com",
+          "value": 5
+        },
+        {
+          "query": "casino utan spelstopp 🇸🇪 casinonisse.sbs",
+          "value": 5
+        },
+        {
+          "query": "radio online",
+          "value": 4
+        },
+        {
+          "query": "whatsapp online",
+          "value": 4
+        },
+        {
+          "query": "casino zonder cruks 🇳🇱 www.casinobino.sbs",
+          "value": 4
+        },
+        {
+          "query": "casino utan svensk licens 🇸🇪 casinonisse.com 🇸🇪",
+          "value": 3
+        },
+        {
+          "query": "casino utan spelstopp 🇸🇪 casinonisse.com",
+          "value": 3
+        },
+        {
+          "query": "online casinos 🇦🇺 casinobino.sbs",
+          "value": 3
+        },
+        {
+          "query": "casino ohne oasis 🇩🇪 www.casinobino.com",
+          "value": 3
+        },
+        {
+          "query": "online casinos 🇬🇧 casinobino.sbs",
+          "value": 3
+        },
+        {
+          "query": "casino zonder cruks 🇳🇱 www.casinobino.com",
+          "value": 2
+        },
+        {
+          "query": "casino online 🇧🇪 casinojules.club",
+          "value": 2
+        },
+        {
+          "query": "online casino bonus 🇩🇪 www.stefancasino.pro",
+          "value": 2
+        }
+      ],
+      "rising": [
+        {
+          "query": "online casino 🇩🇪 www.stefancasino.pro",
+          "value": 231400
+        },
+        {
+          "query": "casino online 🇩🇪 casinod.cfd 🇩🇪",
+          "value": 151500
+        },
+        {
+          "query": "online casino 🇳🇱 www.casinobino.sbs",
+          "value": 82800
+        },
+        {
+          "query": "online casinos 🇩🇪 www.casinobino.sbs",
+          "value": 82750
+        },
+        {
+          "query": "casino utan spelpaus 🇸🇪 casinonisse.com 🇸🇪",
+          "value": 78600
+        },
+        {
+          "query": "online casinos 🇬🇧 www.casinobino.com",
+          "value": 77700
+        },
+        {
+          "query": "casino zonder cruks 🇳🇱 www.casinobino.sbs",
+          "value": 61100
+        },
+        {
+          "query": "casino utan svensk licens 🇸🇪 casinonisse.com 🇸🇪",
+          "value": 57300
+        },
+        {
+          "query": "casino utan spelstopp 🇸🇪 casinonisse.com",
+          "value": 55050
+        },
+        {
+          "query": "casino ohne oasis 🇩🇪 www.casinobino.com",
+          "value": 48550
+        },
+        {
+          "query": "online casinos 🇦🇺 casinobino.sbs",
+          "value": 48100
+        },
+        {
+          "query": "online casinos 🇬🇧 casinobino.sbs",
+          "value": 47500
+        },
+        {
+          "query": "casino zonder cruks 🇳🇱 www.casinobino.com",
+          "value": 40400
+        },
+        {
+          "query": "casino online 🇧🇪 casinojules.club",
+          "value": 39900
+        },
+        {
+          "query": "online casino bonus 🇩🇪 www.stefancasino.pro",
+          "value": 37750
+        },
+        {
+          "query": "casino utan spelstopp 🇸🇪 casinonisse.sbs",
+          "value": 3900
+        },
+        {
+          "query": "casino utan svensk licens 🇸🇪 casinonisse.sbs",
+          "value": 3100
+        },
+        {
+          "query": "casino utan svensk spelpaus 🇸🇪 casinonisse.sbs 🇸🇪",
+          "value": 2650
+        },
+        {
+          "query": "casino utan spelpaus 🇸🇪 casinonisse.sbs",
+          "value": 2300
+        }
+      ]
+    },
+    {
+      "keyword": "Downloader",
+      "timestamp": "2026-11-15 04:01:11",
+      "filename": "related_queries_Downloader_20261115_040111.json",
+      "top": [
+        {
+          "query": "downloader video",
+          "value": 100
+        },
+        {
+          "query": "video",
+          "value": 97
+        },
+        {
+          "query": "downloader youtube",
+          "value": 44
+        },
+        {
+          "query": "instagram downloader",
+          "value": 31
+        },
+        {
+          "query": "tiktok downloader",
+          "value": 29
+        },
+        {
+          "query": "download",
+          "value": 20
+        },
+        {
+          "query": "facebook downloader",
+          "value": 20
+        },
+        {
+          "query": "video downloader youtube",
+          "value": 18
+        },
+        {
+          "query": "mp3",
+          "value": 15
+        },
+        {
+          "query": "mp3 downloader",
+          "value": 14
+        },
+        {
+          "query": "pinterest downloader",
+          "value": 13
+        },
+        {
+          "query": "video downloader tiktok",
+          "value": 13
+        },
+        {
+          "query": "facebook video downloader",
+          "value": 13
+        },
+        {
+          "query": "instagram video downloader",
+          "value": 11
+        },
+        {
+          "query": "pinterest video downloader",
+          "value": 10
+        },
+        {
+          "query": "music downloader",
+          "value": 9
+        },
+        {
+          "query": "yt downloader",
+          "value": 8
+        },
+        {
+          "query": "downloader app",
+          "value": 7
+        },
+        {
+          "query": "twitter downloader",
+          "value": 7
+        },
+        {
+          "query": "apk downloader",
+          "value": 6
+        },
+        {
+          "query": "video downloader free",
+          "value": 5
+        },
+        {
+          "query": "video downloader online",
+          "value": 5
+        },
+        {
+          "query": "downloader fb",
+          "value": 5
+        },
+        {
+          "query": "youtube download",
+          "value": 5
+        },
+        {
+          "query": "mp4 downloader",
+          "value": 5
+        }
+      ],
+      "rising": [
+        {
+          "query": "xuper tv",
+          "value": 350
+        },
+        {
+          "query": "downloader para smart tv",
+          "value": 110
+        },
+        {
+          "query": "tiktokio video downloader",
+          "value": 90
+        },
+        {
+          "query": "descargar downloader",
+          "value": 80
+        },
+        {
+          "query": "tiktokio downloader",
+          "value": 60
+        },
+        {
+          "query": "downloader by aftvnews",
+          "value": 40
+        }
+      ]
+    },
+    {
+      "keyword": "Maker",
+      "timestamp": "2026-11-15 04:01:11",
+      "filename": "related_queries_Maker_20261115_040111.json",
+      "top": [
+        {
+          "query": "coffee maker",
+          "value": 100
+        },
+        {
+          "query": "ice maker",
+          "value": 72
+        },
+        {
+          "query": "video maker",
+          "value": 53
+        },
+        {
+          "query": "instagram video download",
+          "value": 23
+        },
+        {
+          "query": "instagram video download without water maker",
+          "value": 23
+        },
+        {
+          "query": "ninja",
+          "value": 22
+        },
+        {
+          "query": "maker world",
+          "value": 19
+        },
+        {
+          "query": "ice cream maker",
+          "value": 18
+        },
+        {
+          "query": "bread maker",
+          "value": 15
+        },
+        {
+          "query": "waffle maker",
+          "value": 15
+        },
+        {
+          "query": "pdf maker",
+          "value": 15
+        },
+        {
+          "query": "game maker",
+          "value": 15
+        },
+        {
+          "query": "gif",
+          "value": 14
+        },
+        {
+          "query": "gif maker",
+          "value": 14
+        },
+        {
+          "query": "logo maker",
+          "value": 13
+        },
+        {
+          "query": "cricut maker",
+          "value": 12
+        },
+        {
+          "query": "music maker",
+          "value": 12
+        },
+        {
+          "query": "cricut",
+          "value": 12
+        },
+        {
+          "query": "song maker",
+          "value": 11
+        },
+        {
+          "query": "ai video maker",
+          "value": 10
+        },
+        {
+          "query": "label maker",
+          "value": 10
+        },
+        {
+          "query": "espresso maker",
+          "value": 10
+        },
+        {
+          "query": "keurig",
+          "value": 10
+        },
+        {
+          "query": "keurig coffee maker",
+          "value": 10
+        },
+        {
+          "query": "image maker",
+          "value": 10
+        }
+      ],
+      "rising": [
+        {
+          "query": "bruvi coffee maker",
+          "value": 250
+        },
+        {
+          "query": "momcozy food maker",
+          "value": 180
+        },
+        {
+          "query": "momcozy baby food maker",
+          "value": 160
+        },
+        {
+          "query": "x maker joy 3d printer",
+          "value": 110
+        },
+        {
+          "query": "vltd maker",
+          "value": 70
+        },
+        {
+          "query": "x maker joy",
+          "value": 60
+        }
+      ]
+    },
+    {
+      "keyword": "Creator",
+      "timestamp": "2026-11-15 04:01:11",
+      "filename": "related_queries_Creator_20261115_040111.json",
+      "top": [
+        {
+          "query": "the creator",
+          "value": 100
+        },
+        {
+          "query": "content creator",
+          "value": 42
+        },
+        {
+          "query": "ai creator",
+          "value": 26
+        },
+        {
+          "query": "tyler the creator",
+          "value": 26
+        },
+        {
+          "query": "video creator",
+          "value": 16
+        },
+        {
+          "query": "lego creator",
+          "value": 16
+        },
+        {
+          "query": "creator roblox",
+          "value": 14
+        },
+        {
+          "query": "image creator",
+          "value": 12
+        },
+        {
+          "query": "youtube creator",
+          "value": 12
+        },
+        {
+          "query": "tiktok creator",
+          "value": 11
+        },
+        {
+          "query": "creator studio",
+          "value": 11
+        },
+        {
+          "query": "book creator",
+          "value": 9
+        },
+        {
+          "query": "character creator",
+          "value": 8
+        },
+        {
+          "query": "ugc",
+          "value": 8
+        },
+        {
+          "query": "ugc creator",
+          "value": 8
+        },
+        {
+          "query": "facebook creator",
+          "value": 7
+        },
+        {
+          "query": "google creator",
+          "value": 7
+        },
+        {
+          "query": "digital creator",
+          "value": 7
+        },
+        {
+          "query": "creator hub",
+          "value": 6
+        },
+        {
+          "query": "pdf creator",
+          "value": 6
+        },
+        {
+          "query": "bing image creator",
+          "value": 6
+        },
+        {
+          "query": "dji",
+          "value": 6
+        },
+        {
+          "query": "video creator ai",
+          "value": 5
+        },
+        {
+          "query": "music creator",
+          "value": 5
+        },
+        {
+          "query": "flashforge",
+          "value": 5
+        }
+      ],
+      "rising": [
+        {
+          "query": "bojack horseman creator",
+          "value": 850
+        },
+        {
+          "query": "content creator betekenis",
+          "value": 140
+        },
+        {
+          "query": "camp flog gnaw",
+          "value": 130
+        },
+        {
+          "query": "converse x tyler the creator",
+          "value": 120
+        },
+        {
+          "query": "nvidia creator",
+          "value": 110
+        },
+        {
+          "query": "creator of microsoft",
+          "value": 110
+        },
+        {
+          "query": "tyler the creator converse",
+          "value": 90
+        },
+        {
+          "query": "ugc creator это",
+          "value": 80
+        },
+        {
+          "query": "converse",
+          "value": 80
+        },
+        {
+          "query": "wif creator",
+          "value": 70
+        },
+        {
+          "query": "danganronpa creator physical media comments",
+          "value": 60
+        },
+        {
+          "query": "microsoft creator",
+          "value": 50
+        },
+        {
+          "query": "crayola story creator",
+          "value": 50
+        },
+        {
+          "query": "ak creator yt",
+          "value": 50
+        },
+        {
+          "query": "tyler the creator shoes",
+          "value": 40
+        }
+      ]
+    },
+    {
+      "keyword": "Editor",
+      "timestamp": "2026-11-15 04:01:11",
+      "filename": "related_queries_Editor_20261115_040111.json",
+      "top": [
+        {
+          "query": "editor pdf",
+          "value": 100
+        },
+        {
+          "query": "pdf",
+          "value": 96
+        },
+        {
+          "query": "online editor",
+          "value": 59
+        },
+        {
+          "query": "video editor",
+          "value": 52
+        },
+        {
+          "query": "ai editor",
+          "value": 46
+        },
+        {
+          "query": "photo editor",
+          "value": 38
+        },
+        {
+          "query": "pdf online editor",
+          "value": 29
+        },
+        {
+          "query": "free pdf editor",
+          "value": 21
+        },
+        {
+          "query": "ai photo editor",
+          "value": 19
+        },
+        {
+          "query": "image editor",
+          "value": 18
+        },
+        {
+          "query": "sejda pdf",
+          "value": 12
+        },
+        {
+          "query": "sejda pdf editor",
+          "value": 12
+        },
+        {
+          "query": "sejda",
+          "value": 12
+        },
+        {
+          "query": "text editor",
+          "value": 11
+        },
+        {
+          "query": "sejda editor",
+          "value": 11
+        },
+        {
+          "query": "save editor",
+          "value": 11
+        },
+        {
+          "query": "online free pdf editor",
+          "value": 11
+        },
+        {
+          "query": "video editor free",
+          "value": 10
+        },
+        {
+          "query": "image editor ai",
+          "value": 9
+        },
+        {
+          "query": "word editor",
+          "value": 9
+        },
+        {
+          "query": "video editor ai",
+          "value": 8
+        },
+        {
+          "query": "photo editor free",
+          "value": 7
+        },
+        {
+          "query": "code editor",
+          "value": 7
+        },
+        {
+          "query": "video editor online",
+          "value": 7
+        },
+        {
+          "query": "capcut",
+          "value": 6
+        }
+      ],
+      "rising": [
+        {
+          "query": "pg editor com",
+          "value": 1000
+        },
+        {
+          "query": "pg editor",
+          "value": 650
+        },
+        {
+          "query": "vikas editor",
+          "value": 180
+        },
+        {
+          "query": "vikash editor",
+          "value": 160
+        },
+        {
+          "query": "fc 27 live editor",
+          "value": 100
+        },
+        {
+          "query": "jopdf editor",
+          "value": 90
+        },
+        {
+          "query": "pdf to word convert pdf to word online for free",
+          "value": 60
+        },
+        {
+          "query": "preset editor",
+          "value": 50
+        },
+        {
+          "query": "m4 editor",
+          "value": 50
+        },
+        {
+          "query": "clipchamp",
+          "value": 50
+        },
+        {
+          "query": "hxd hex editor",
+          "value": 50
+        },
+        {
+          "query": "prompt seen",
+          "value": 50
+        }
+      ]
+    },
+    {
+      "keyword": "Processor",
+      "timestamp": "2026-11-15 04:01:11",
+      "filename": "related_queries_Processor_20261115_040111.json",
+      "top": [
+        {
+          "query": "food processor",
+          "value": 100
+        },
+        {
+          "query": "intel processor",
+          "value": 59
+        },
+        {
+          "query": "intel",
+          "value": 55
+        },
+        {
+          "query": "best processor",
+          "value": 43
+        },
+        {
+          "query": "laptop",
+          "value": 41
+        },
+        {
+          "query": "laptop processor",
+          "value": 40
+        },
+        {
+          "query": "amd",
+          "value": 39
+        },
+        {
+          "query": "amd processor",
+          "value": 38
+        },
+        {
+          "query": "ryzen processor",
+          "value": 35
+        },
+        {
+          "query": "ram",
+          "value": 27
+        },
+        {
+          "query": "nvidia processor",
+          "value": 24
+        },
+        {
+          "query": "i5 processor",
+          "value": 21
+        },
+        {
+          "query": "gpu",
+          "value": 21
+        },
+        {
+          "query": "snapdragon processor",
+          "value": 21
+        },
+        {
+          "query": "snapdragon",
+          "value": 21
+        },
+        {
+          "query": "i7 processor",
+          "value": 19
+        },
+        {
+          "query": "pc processor",
+          "value": 17
+        },
+        {
+          "query": "ninja",
+          "value": 15
+        },
+        {
+          "query": "hp",
+          "value": 14
+        },
+        {
+          "query": "blender",
+          "value": 14
+        },
+        {
+          "query": "cpu processor",
+          "value": 13
+        },
+        {
+          "query": "cpu",
+          "value": 13
+        },
+        {
+          "query": "ninja food processor",
+          "value": 12
+        },
+        {
+          "query": "amd ryzen 7",
+          "value": 10
+        },
+        {
+          "query": "motherboard",
+          "value": 10
+        }
+      ],
+      "rising": [
+        {
+          "query": "gpu",
+          "value": 250
+        },
+        {
+          "query": "nvidia processor",
+          "value": 250
+        },
+        {
+          "query": "ninja crushboss™ 4-in-1 blender, tumbler, food processor & dicing",
+          "value": 50
+        }
+      ]
+    },
+    {
+      "keyword": "Compiler",
+      "timestamp": "2026-11-15 04:07:31",
+      "filename": "related_queries_Compiler_20261115_040731.json",
+      "top": [
+        {
+          "query": "online compiler",
+          "value": 100
+        },
+        {
+          "query": "online",
+          "value": 100
+        },
+        {
+          "query": "compiler python",
+          "value": 41
+        },
+        {
+          "query": "python",
+          "value": 39
+        },
+        {
+          "query": "online python",
+          "value": 28
+        },
+        {
+          "query": "python online compiler",
+          "value": 28
+        },
+        {
+          "query": "python compiler online",
+          "value": 28
+        },
+        {
+          "query": "online compiler c",
+          "value": 22
+        },
+        {
+          "query": "compiler c++",
+          "value": 21
+        },
+        {
+          "query": "c++",
+          "value": 20
+        },
+        {
+          "query": "compiler java",
+          "value": 18
+        },
+        {
+          "query": "java",
+          "value": 18
+        },
+        {
+          "query": "online java compiler",
+          "value": 13
+        },
+        {
+          "query": "compiler online c++",
+          "value": 11
+        },
+        {
+          "query": "c++ online",
+          "value": 11
+        },
+        {
+          "query": "one compiler",
+          "value": 8
+        },
+        {
+          "query": "chatgpt online",
+          "value": 6
+        },
+        {
+          "query": "html compiler",
+          "value": 6
+        },
+        {
+          "query": "gdb compiler",
+          "value": 6
+        },
+        {
+          "query": "gdb",
+          "value": 6
+        },
+        {
+          "query": "code compiler",
+          "value": 5
+        },
+        {
+          "query": "html",
+          "value": 5
+        },
+        {
+          "query": "programiz",
+          "value": 4
+        },
+        {
+          "query": "sql compiler",
+          "value": 4
+        },
+        {
+          "query": "sql",
+          "value": 3
+        }
+      ],
+      "rising": [
+        {
+          "query": "cuims",
+          "value": 1500
+        },
+        {
+          "query": "dontpad",
+          "value": 300
+        },
+        {
+          "query": "tcs codevita",
+          "value": 300
+        },
+        {
+          "query": "qbasic online compiler",
+          "value": 100
+        },
+        {
+          "query": "fight karo.com",
+          "value": 90
+        },
+        {
+          "query": "online c complier",
+          "value": 80
+        },
+        {
+          "query": "pl/sql online compiler",
+          "value": 70
+        },
+        {
+          "query": "monkey typing",
+          "value": 70
+        },
+        {
+          "query": "codechef compiler c++",
+          "value": 50
+        },
+        {
+          "query": "chtgpt",
+          "value": 50
+        },
+        {
+          "query": "online games",
+          "value": 40
+        }
+      ]
+    },
+    {
+      "keyword": "Analyzer",
+      "timestamp": "2026-11-15 04:07:31",
+      "filename": "related_queries_Analyzer_20261115_040731.json",
+      "top": [
+        {
+          "query": "trade analyzer",
+          "value": 100
+        },
+        {
+          "query": "trade",
+          "value": 97
+        },
+        {
+          "query": "fantasy analyzer",
+          "value": 59
+        },
+        {
+          "query": "fantasy trade analyzer",
+          "value": 57
+        },
+        {
+          "query": "fantasy",
+          "value": 56
+        },
+        {
+          "query": "fantasy football analyzer",
+          "value": 25
+        },
+        {
+          "query": "fantasy football trade analyzer",
+          "value": 24
+        },
+        {
+          "query": "fantasy football",
+          "value": 24
+        },
+        {
+          "query": "ai analyzer",
+          "value": 9
+        },
+        {
+          "query": "spectrum analyzer",
+          "value": 8
+        },
+        {
+          "query": "trade analyzer nfl",
+          "value": 8
+        },
+        {
+          "query": "wifi analyzer",
+          "value": 5
+        },
+        {
+          "query": "gas analyzer",
+          "value": 4
+        },
+        {
+          "query": "trade analyzer nba",
+          "value": 4
+        },
+        {
+          "query": "power analyzer",
+          "value": 4
+        },
+        {
+          "query": "network analyzer",
+          "value": 4
+        },
+        {
+          "query": "chess analyzer",
+          "value": 3
+        },
+        {
+          "query": "logic analyzer",
+          "value": 3
+        },
+        {
+          "query": "nfl trade analyzer fantasy",
+          "value": 3
+        },
+        {
+          "query": "basketball trade analyzer",
+          "value": 3
+        },
+        {
+          "query": "hematology analyzer",
+          "value": 3
+        },
+        {
+          "query": "dynasty trade analyzer",
+          "value": 3
+        },
+        {
+          "query": "faceit analyzer",
+          "value": 3
+        },
+        {
+          "query": "nba fantasy",
+          "value": 3
+        },
+        {
+          "query": "faceit",
+          "value": 3
+        }
+      ],
+      "rising": [
+        {
+          "query": "kenneth walker",
+          "value": 200
+        },
+        {
+          "query": "cybershoke",
+          "value": 130
+        },
+        {
+          "query": "faceit finder",
+          "value": 100
+        },
+        {
+          "query": "fantasy baseball trade analyzer",
+          "value": 90
+        },
+        {
+          "query": "log file analyzer",
+          "value": 90
+        },
+        {
+          "query": "mindray hematology analyzer",
+          "value": 80
+        },
+        {
+          "query": "biochemistry analyzer",
+          "value": 60
+        },
+        {
+          "query": "fantasysp trade analyzer",
+          "value": 60
+        },
+        {
+          "query": "mail header analyzer",
+          "value": 60
+        },
+        {
+          "query": "netspot wifi analyzer",
+          "value": 60
+        },
+        {
+          "query": "fieldpiece combustion analyzer",
+          "value": 60
+        },
+        {
+          "query": "ffl trade analyzer",
+          "value": 50
+        },
+        {
+          "query": "website traffic analyzer",
+          "value": 50
+        },
+        {
+          "query": "start sit analyzer",
+          "value": 40
+        },
+        {
+          "query": "backlink analyzer",
+          "value": 40
+        },
+        {
+          "query": "start sit analyzer fantasy football",
+          "value": 40
+        },
+        {
+          "query": "tunebat analyzer",
+          "value": 40
+        }
+      ]
+    },
+    {
+      "keyword": "Evaluator",
+      "timestamp": "2026-11-15 04:07:31",
+      "filename": "related_queries_Evaluator_20261115_040731.json",
+      "top": [
+        {
+          "query": "trade evaluator",
+          "value": 100
+        },
+        {
+          "query": "evaluator jobs",
+          "value": 100
+        },
+        {
+          "query": "fantasy trade evaluator",
+          "value": 64
+        },
+        {
+          "query": "search engine evaluator",
+          "value": 43
+        },
+        {
+          "query": "fantasy football trade evaluator",
+          "value": 43
+        },
+        {
+          "query": "ai evaluator jobs",
+          "value": 35
+        },
+        {
+          "query": "evaluator meaning",
+          "value": 29
+        },
+        {
+          "query": "micro1",
+          "value": 21
+        },
+        {
+          "query": "search engine evaluator jobs",
+          "value": 18
+        },
+        {
+          "query": "property evaluator",
+          "value": 18
+        },
+        {
+          "query": "csp evaluator",
+          "value": 16
+        },
+        {
+          "query": "rws",
+          "value": 16
+        },
+        {
+          "query": "ep evaluator",
+          "value": 11
+        },
+        {
+          "query": "evaluator imobiliar",
+          "value": 10
+        },
+        {
+          "query": "resume evaluator",
+          "value": 10
+        },
+        {
+          "query": "social media evaluator",
+          "value": 9
+        },
+        {
+          "query": "evaluator anevar",
+          "value": 9
+        },
+        {
+          "query": "pokemon evaluator",
+          "value": 9
+        },
+        {
+          "query": "social media evaluator jobs",
+          "value": 7
+        },
+        {
+          "query": "mercor",
+          "value": 7
+        },
+        {
+          "query": "hsin evaluator",
+          "value": 3
+        },
+        {
+          "query": "welocalize",
+          "value": 3
+        },
+        {
+          "query": "google csp evaluator",
+          "value": 3
+        },
+        {
+          "query": "aws migration evaluator",
+          "value": 3
+        },
+        {
+          "query": "jsonpath online evaluator",
+          "value": 2
+        }
+      ],
+      "rising": [
+        {
+          "query": "micro1",
+          "value": 300
+        },
+        {
+          "query": "jsonpath online evaluator",
+          "value": 190
+        },
+        {
+          "query": "google csp evaluator",
+          "value": 190
+        },
+        {
+          "query": "hsin evaluator",
+          "value": 130
+        },
+        {
+          "query": "search engine evaluator jobs",
+          "value": 100
+        },
+        {
+          "query": "resume evaluator",
+          "value": 100
+        },
+        {
+          "query": "aws migration evaluator",
+          "value": 100
+        },
+        {
+          "query": "welocalize",
+          "value": 70
+        },
+        {
+          "query": "evaluator anevar",
+          "value": 50
+        },
+        {
+          "query": "social media evaluator jobs",
+          "value": 50
+        }
+      ]
+    },
+    {
+      "keyword": "Sender",
+      "timestamp": "2026-11-15 04:07:31",
+      "filename": "related_queries_Sender_20261115_040731.json",
+      "top": [
+        {
+          "query": "email sender",
+          "value": 100
+        },
+        {
+          "query": "tv sender",
+          "value": 87
+        },
+        {
+          "query": "return to sender",
+          "value": 73
+        },
+        {
+          "query": "message sender",
+          "value": 59
+        },
+        {
+          "query": "mail sender",
+          "value": 48
+        },
+        {
+          "query": "deutschland",
+          "value": 48
+        },
+        {
+          "query": "fernsehprogramm",
+          "value": 37
+        },
+        {
+          "query": "sender one",
+          "value": 36
+        },
+        {
+          "query": "sender whatsapp",
+          "value": 35
+        },
+        {
+          "query": "radio sender",
+          "value": 30
+        },
+        {
+          "query": "deutschland serbien",
+          "value": 30
+        },
+        {
+          "query": "deutschland serbien sender",
+          "value": 29
+        },
+        {
+          "query": "fuel sender",
+          "value": 29
+        },
+        {
+          "query": "back to sender",
+          "value": 28
+        },
+        {
+          "query": "sender app",
+          "value": 24
+        },
+        {
+          "query": "fernsehprogramm heute alle sender",
+          "value": 24
+        },
+        {
+          "query": "fernsehprogramm 20.15 alle sender",
+          "value": 21
+        },
+        {
+          "query": "fernsehprogramm heute 20.15 alle sender",
+          "value": 20
+        },
+        {
+          "query": "sms sender",
+          "value": 19
+        },
+        {
+          "query": "fernsehprogramm heute abend",
+          "value": 19
+        },
+        {
+          "query": "fernsehprogramm heute abend alle sender",
+          "value": 19
+        },
+        {
+          "query": "fernsehprogramm heute abend 20.15 alle sender",
+          "value": 17
+        },
+        {
+          "query": "rtl",
+          "value": 16
+        },
+        {
+          "query": "rtl sender",
+          "value": 16
+        },
+        {
+          "query": "ard",
+          "value": 16
+        }
+      ],
+      "rising": [
+        {
+          "query": "türkei belgien",
+          "value": 1850
+        },
+        {
+          "query": "deutschland serbien",
+          "value": 1800
+        },
+        {
+          "query": "deutschland serbien sender",
+          "value": 1800
+        },
+        {
+          "query": "deutschland gegen serbien",
+          "value": 1700
+        },
+        {
+          "query": "deutschland serbien welcher sender",
+          "value": 1400
+        },
+        {
+          "query": "welcher sender überträgt heute das deutschlandspiel",
+          "value": 1250
+        },
+        {
+          "query": "deutschland serbien live zdf",
+          "value": 1050
+        },
+        {
+          "query": "deutschland spiel",
+          "value": 800
+        },
+        {
+          "query": "rtl live stream",
+          "value": 750
+        },
+        {
+          "query": "wann spielt deutschland gegen serbien",
+          "value": 700
+        },
+        {
+          "query": "serbien vs deutschland",
+          "value": 700
+        },
+        {
+          "query": "fußball heute welcher sender",
+          "value": 650
+        },
+        {
+          "query": "rtl live",
+          "value": 650
+        },
+        {
+          "query": "welcher sender überträgt heute fußball",
+          "value": 600
+        },
+        {
+          "query": "fußball heute",
+          "value": 600
+        },
+        {
+          "query": "wann spielt deutschland",
+          "value": 550
+        },
+        {
+          "query": "fussball heute",
+          "value": 450
+        },
+        {
+          "query": "auf welchem sender wird heute fußball übertragen",
+          "value": 400
+        },
+        {
+          "query": "deutschland",
+          "value": 350
+        },
+        {
+          "query": "rtl",
+          "value": 130
+        },
+        {
+          "query": "rtl sender",
+          "value": 120
+        }
+      ]
+    },
+    {
+      "keyword": "Receiver",
+      "timestamp": "2026-11-15 04:07:31",
+      "filename": "related_queries_Receiver_20261115_040731.json",
+      "top": [
+        {
+          "query": "wide receiver",
+          "value": 100
+        },
+        {
+          "query": "wireless receiver",
+          "value": 52
+        },
+        {
+          "query": "bluetooth",
+          "value": 50
+        },
+        {
+          "query": "bluetooth receiver",
+          "value": 48
+        },
+        {
+          "query": "receiver tv",
+          "value": 35
+        },
+        {
+          "query": "receiver hitch",
+          "value": 32
+        },
+        {
+          "query": "av receiver",
+          "value": 31
+        },
+        {
+          "query": "audio receiver",
+          "value": 30
+        },
+        {
+          "query": "usb receiver",
+          "value": 26
+        },
+        {
+          "query": "receiver football",
+          "value": 25
+        },
+        {
+          "query": "receiver yamaha",
+          "value": 25
+        },
+        {
+          "query": "transmitter and receiver",
+          "value": 24
+        },
+        {
+          "query": "stereo receiver",
+          "value": 24
+        },
+        {
+          "query": "lower receiver",
+          "value": 24
+        },
+        {
+          "query": "receiver denon",
+          "value": 21
+        },
+        {
+          "query": "denon",
+          "value": 21
+        },
+        {
+          "query": "radio receiver",
+          "value": 19
+        },
+        {
+          "query": "logitech receiver",
+          "value": 17
+        },
+        {
+          "query": "logitech",
+          "value": 17
+        },
+        {
+          "query": "sony receiver",
+          "value": 15
+        },
+        {
+          "query": "phone receiver",
+          "value": 13
+        },
+        {
+          "query": "wide receiver nfl",
+          "value": 13
+        },
+        {
+          "query": "pioneer receiver",
+          "value": 13
+        },
+        {
+          "query": "receiver onkyo",
+          "value": 13
+        },
+        {
+          "query": "onkyo",
+          "value": 13
+        }
+      ],
+      "rising": [
+        {
+          "query": "why did the philadelphia eagles waive wide receiver hollywood brown",
+          "value": 8000
+        },
+        {
+          "query": "telekom media receiver 401",
+          "value": 800
+        },
+        {
+          "query": "cj daniels",
+          "value": 550
+        },
+        {
+          "query": "bucs wide receiver roster cuts",
+          "value": 450
+        },
+        {
+          "query": "isaiah likely",
+          "value": 350
+        },
+        {
+          "query": "colts wide receiver trades",
+          "value": 200
+        },
+        {
+          "query": "steelers trade deadline wide receiver targets",
+          "value": 200
+        },
+        {
+          "query": "bluetooth audio receiver for pc",
+          "value": 150
+        },
+        {
+          "query": "jayden daniels stats",
+          "value": 140
+        },
+        {
+          "query": "stefon diggs",
+          "value": 120
+        }
+      ]
+    },
+    {
+      "keyword": "Interpreter",
+      "timestamp": "2026-11-15 04:07:31",
+      "filename": "related_queries_Interpreter_20261115_040731.json",
+      "top": [
+        {
+          "query": "the interpreter",
+          "value": 100
+        },
+        {
+          "query": "python interpreter",
+          "value": 54
+        },
+        {
+          "query": "python",
+          "value": 54
+        },
+        {
+          "query": "language interpreter",
+          "value": 52
+        },
+        {
+          "query": "what is interpreter",
+          "value": 41
+        },
+        {
+          "query": "interpreter jobs",
+          "value": 35
+        },
+        {
+          "query": "medical interpreter",
+          "value": 33
+        },
+        {
+          "query": "online interpreter",
+          "value": 27
+        },
+        {
+          "query": "asl interpreter",
+          "value": 26
+        },
+        {
+          "query": "what is a interpreter",
+          "value": 26
+        },
+        {
+          "query": "spanish interpreter",
+          "value": 24
+        },
+        {
+          "query": "sign language interpreter",
+          "value": 23
+        },
+        {
+          "query": "interpreter services",
+          "value": 23
+        },
+        {
+          "query": "code interpreter",
+          "value": 21
+        },
+        {
+          "query": "court interpreter",
+          "value": 20
+        },
+        {
+          "query": "compiler",
+          "value": 19
+        },
+        {
+          "query": "english interpreter",
+          "value": 19
+        },
+        {
+          "query": "ai interpreter",
+          "value": 19
+        },
+        {
+          "query": "my interpreter",
+          "value": 17
+        },
+        {
+          "query": "what is an interpreter",
+          "value": 16
+        },
+        {
+          "query": "interpreter meaning",
+          "value": 16
+        },
+        {
+          "query": "interpreter translator",
+          "value": 16
+        },
+        {
+          "query": "online python interpreter",
+          "value": 15
+        },
+        {
+          "query": "python online",
+          "value": 14
+        },
+        {
+          "query": "python online interpreter",
+          "value": 14
+        }
+      ],
+      "rising": [
+        {
+          "query": "dream interpretation",
+          "value": 5800
+        },
+        {
+          "query": "interpreter translator 違い",
+          "value": 2600
+        },
+        {
+          "query": "somali interpreter jobs",
+          "value": 350
+        },
+        {
+          "query": "interpreter artinya",
+          "value": 300
+        },
+        {
+          "query": "islamic dream interpreter",
+          "value": 250
+        },
+        {
+          "query": "best time to visit maldives",
+          "value": 180
+        },
+        {
+          "query": "sean penn",
+          "value": 130
+        },
+        {
+          "query": "abg interpreter",
+          "value": 110
+        },
+        {
+          "query": "the covenant",
+          "value": 110
+        },
+        {
+          "query": "turkish interpreter jobs",
+          "value": 100
+        },
+        {
+          "query": "how to select python interpreter in vs code",
+          "value": 90
+        },
+        {
+          "query": "interpreter 中文",
+          "value": 80
+        }
+      ]
+    },
+    {
+      "keyword": "Uploader",
+      "timestamp": "2026-11-15 04:07:31",
+      "filename": "related_queries_Uploader_20261115_040731.json",
+      "top": [
+        {
+          "query": "image uploader",
+          "value": 100
+        },
+        {
+          "query": "file uploader",
+          "value": 95
+        },
+        {
+          "query": "video uploader",
+          "value": 95
+        },
+        {
+          "query": "free uploader",
+          "value": 57
+        },
+        {
+          "query": "youtube uploader",
+          "value": 57
+        },
+        {
+          "query": "card uploader",
+          "value": 32
+        },
+        {
+          "query": "photo uploader",
+          "value": 30
+        },
+        {
+          "query": "bbc uploader",
+          "value": 28
+        },
+        {
+          "query": "drive uploader",
+          "value": 22
+        },
+        {
+          "query": "bbc introducing",
+          "value": 20
+        },
+        {
+          "query": "bbc introducing uploader",
+          "value": 20
+        },
+        {
+          "query": "web uploader",
+          "value": 20
+        },
+        {
+          "query": "2k image uploader",
+          "value": 17
+        },
+        {
+          "query": "wwe image uploader",
+          "value": 16
+        },
+        {
+          "query": "music uploader",
+          "value": 15
+        },
+        {
+          "query": "skin uploader",
+          "value": 15
+        },
+        {
+          "query": "mp3 uploader",
+          "value": 13
+        },
+        {
+          "query": "wwe 2k image uploader",
+          "value": 13
+        },
+        {
+          "query": "excel uploader",
+          "value": 12
+        },
+        {
+          "query": "google drive uploader",
+          "value": 12
+        },
+        {
+          "query": "file uploader free",
+          "value": 11
+        },
+        {
+          "query": "catbox",
+          "value": 11
+        },
+        {
+          "query": "free image uploader",
+          "value": 10
+        },
+        {
+          "query": "gif uploader",
+          "value": 10
+        },
+        {
+          "query": "bir excel uploader",
+          "value": 8
+        }
+      ],
+      "rising": [
+        {
+          "query": "carduploader",
+          "value": 21700
+        },
+        {
+          "query": "wwe2k image uploader",
+          "value": 700
+        },
+        {
+          "query": "scs workshop uploader",
+          "value": 170
+        },
+        {
+          "query": "fflogs uploader",
+          "value": 120
+        },
+        {
+          "query": "free image uploader",
+          "value": 90
+        },
+        {
+          "query": "soundcloud",
+          "value": 90
+        },
+        {
+          "query": "img uploader",
+          "value": 80
+        },
+        {
+          "query": "screenshot uploader",
+          "value": 60
+        },
+        {
+          "query": "file uploader free",
+          "value": 50
+        },
+        {
+          "query": "bir excel uploader",
+          "value": 50
+        },
+        {
+          "query": "2k image uploader",
+          "value": 50
+        },
+        {
+          "query": "mp3 uploader",
+          "value": 50
+        }
+      ]
+    }
+  ],
+  "grouped_snapshots": [
+    {
+      "name": "Translation And Creation",
+      "slug": "translation-and-creation",
+      "snapshots": [
+        {
+          "keyword": "Translator",
+          "timestamp": "2026-11-15 04:01:11",
+          "filename": "related_queries_Translator_20261115_040111.json",
+          "top": [
+            {
+              "query": "english",
+              "value": 100
+            },
+            {
+              "query": "english translator",
+              "value": 99
+            },
+            {
+              "query": "translator google",
+              "value": 63
+            },
+            {
+              "query": "tagalog translator",
+              "value": 22
+            },
+            {
+              "query": "spanish",
+              "value": 21
+            },
+            {
+              "query": "spanish translator",
+              "value": 20
+            },
+            {
+              "query": "tagalog english translator",
+              "value": 20
+            },
+            {
+              "query": "language",
+              "value": 20
+            },
+            {
+              "query": "language translator",
+              "value": 19
+            },
+            {
+              "query": "translator english to tagalog",
+              "value": 17
+            },
+            {
+              "query": "english to tagalog",
+              "value": 17
+            },
+            {
+              "query": "deepl translator",
+              "value": 14
+            },
+            {
+              "query": "deepl",
+              "value": 13
+            },
+            {
+              "query": "hindi translator",
+              "value": 12
+            },
+            {
+              "query": "spanish english translator",
+              "value": 11
+            },
+            {
+              "query": "morse translator",
+              "value": 10
+            },
+            {
+              "query": "translator english to spanish",
+              "value": 10
+            },
+            {
+              "query": "morse code translator",
+              "value": 10
+            },
+            {
+              "query": "ai translator",
+              "value": 10
+            },
+            {
+              "query": "hindi english translator",
+              "value": 9
+            },
+            {
+              "query": "morse code",
+              "value": 9
+            },
+            {
+              "query": "hindi to english translator",
+              "value": 9
+            },
+            {
+              "query": "online translator",
+              "value": 8
+            },
+            {
+              "query": "chinese translator",
+              "value": 8
+            },
+            {
+              "query": "binary translator",
+              "value": 8
+            }
+          ],
+          "rising": [
+            {
+              "query": "english to marathi translator",
+              "value": 90
+            },
+            {
+              "query": "google translator from english to hindi",
+              "value": 70
+            },
+            {
+              "query": "english to gujarati translator",
+              "value": 60
+            },
+            {
+              "query": "hindi english translator",
+              "value": 50
+            },
+            {
+              "query": "hindi to english translator",
+              "value": 50
+            },
+            {
+              "query": "english to kannada translator",
+              "value": 40
+            },
+            {
+              "query": "hindi translator",
+              "value": 40
+            }
+          ]
+        },
+        {
+          "keyword": "Generator",
+          "timestamp": "2026-11-15 04:01:11",
+          "filename": "related_queries_Generator_20261115_040111.json",
+          "top": [
+            {
+              "query": "ai generator",
+              "value": 100
+            },
+            {
+              "query": "video generator",
+              "value": 42
+            },
+            {
+              "query": "video ai generator",
+              "value": 36
+            },
+            {
+              "query": "random generator",
+              "value": 31
+            },
+            {
+              "query": "free ai generator",
+              "value": 31
+            },
+            {
+              "query": "image generator",
+              "value": 30
+            },
+            {
+              "query": "qr generator",
+              "value": 30
+            },
+            {
+              "query": "number generator",
+              "value": 28
+            },
+            {
+              "query": "qr code generator",
+              "value": 26
+            },
+            {
+              "query": "qr code",
+              "value": 26
+            },
+            {
+              "query": "name generator",
+              "value": 25
+            },
+            {
+              "query": "font generator",
+              "value": 24
+            },
+            {
+              "query": "font",
+              "value": 24
+            },
+            {
+              "query": "ai image generator",
+              "value": 23
+            },
+            {
+              "query": "random number generator",
+              "value": 18
+            },
+            {
+              "query": "text generator",
+              "value": 17
+            },
+            {
+              "query": "ai video generator free",
+              "value": 16
+            },
+            {
+              "query": "citation generator",
+              "value": 16
+            },
+            {
+              "query": "barcode generator",
+              "value": 15
+            },
+            {
+              "query": "solar generator",
+              "value": 14
+            },
+            {
+              "query": "power generator",
+              "value": 14
+            },
+            {
+              "query": "home generator",
+              "value": 12
+            },
+            {
+              "query": "password generator",
+              "value": 10
+            },
+            {
+              "query": "apa generator",
+              "value": 9
+            },
+            {
+              "query": "meme generator",
+              "value": 9
+            }
+          ],
+          "rising": [
+            {
+              "query": "solar powered generator for home",
+              "value": 60
+            },
+            {
+              "query": "upi qr code generator",
+              "value": 60
+            },
+            {
+              "query": "solar powered generator",
+              "value": 50
+            },
+            {
+              "query": "solar generator for home",
+              "value": 40
+            }
+          ]
+        },
+        {
+          "keyword": "Example",
+          "timestamp": "2026-11-15 04:01:11",
+          "filename": "related_queries_Example_20261115_040111.json",
+          "top": [
+            {
+              "query": "example of",
+              "value": 100
+            },
+            {
+              "query": "for example",
+              "value": 53
+            },
+            {
+              "query": "resume example",
+              "value": 2
+            },
+            {
+              "query": "check example",
+              "value": 2
+            },
+            {
+              "query": "computer",
+              "value": 1
+            },
+            {
+              "query": "example synonym",
+              "value": 1
+            },
+            {
+              "query": "cv example",
+              "value": 1
+            },
+            {
+              "query": "cover letter example",
+              "value": 1
+            },
+            {
+              "query": "for example synonym",
+              "value": 1
+            },
+            {
+              "query": "example domain",
+              "value": 1
+            },
+            {
+              "query": "xxnn xenophobia meaning in hindi dictionary with example video",
+              "value": 0
+            },
+            {
+              "query": "vlookup formula in excel with example",
+              "value": 0
+            },
+            {
+              "query": "سیکسی meaning in english with example به فارسی",
+              "value": 0
+            },
+            {
+              "query": "flyers example",
+              "value": 0
+            },
+            {
+              "query": "typical example of something",
+              "value": 0
+            },
+            {
+              "query": "xxnn xenophobia meaning in hindi dictionary with example video youtube",
+              "value": 0
+            },
+            {
+              "query": "biscayne bay for example nyt",
+              "value": 0
+            },
+            {
+              "query": "bloody caesar",
+              "value": 0
+            },
+            {
+              "query": "ivan danko",
+              "value": 0
+            },
+            {
+              "query": "stork day country",
+              "value": 0
+            },
+            {
+              "query": "سیکسی meaning in english with example به فارسی pdf",
+              "value": 0
+            },
+            {
+              "query": "biscayne bay, for example",
+              "value": 0
+            }
+          ],
+          "rising": [
+            {
+              "query": "biscayne bay for example nyt",
+              "value": 1150
+            },
+            {
+              "query": "ivan danko",
+              "value": 500
+            },
+            {
+              "query": "stork day country",
+              "value": 500
+            },
+            {
+              "query": "bloody caesar",
+              "value": 450
+            },
+            {
+              "query": "biscayne bay, for example",
+              "value": 300
+            },
+            {
+              "query": "typical example of something",
+              "value": 90
+            }
+          ]
+        },
+        {
+          "keyword": "Online",
+          "timestamp": "2026-11-15 04:01:11",
+          "filename": "related_queries_Online_20261115_040111.json",
+          "top": [
+            {
+              "query": "casino online",
+              "value": 100
+            },
+            {
+              "query": "online casino 🇩🇪 www.stefancasino.pro",
+              "value": 14
+            },
+            {
+              "query": "games online",
+              "value": 12
+            },
+            {
+              "query": "online game",
+              "value": 10
+            },
+            {
+              "query": "casino online 🇩🇪 casinod.cfd 🇩🇪",
+              "value": 9
+            },
+            {
+              "query": "casino utan spelpaus 🇸🇪 casinonisse.sbs",
+              "value": 7
+            },
+            {
+              "query": "casino utan svensk spelpaus 🇸🇪 casinonisse.sbs 🇸🇪",
+              "value": 6
+            },
+            {
+              "query": "word online",
+              "value": 5
+            },
+            {
+              "query": "online casino 🇳🇱 www.casinobino.sbs",
+              "value": 5
+            },
+            {
+              "query": "online casinos 🇩🇪 www.casinobino.sbs",
+              "value": 5
+            },
+            {
+              "query": "casino utan svensk licens 🇸🇪 casinonisse.sbs",
+              "value": 5
+            },
+            {
+              "query": "casino utan spelpaus 🇸🇪 casinonisse.com 🇸🇪",
+              "value": 5
+            },
+            {
+              "query": "online casinos 🇬🇧 www.casinobino.com",
+              "value": 5
+            },
+            {
+              "query": "casino utan spelstopp 🇸🇪 casinonisse.sbs",
+              "value": 5
+            },
+            {
+              "query": "radio online",
+              "value": 4
+            },
+            {
+              "query": "whatsapp online",
+              "value": 4
+            },
+            {
+              "query": "casino zonder cruks 🇳🇱 www.casinobino.sbs",
+              "value": 4
+            },
+            {
+              "query": "casino utan svensk licens 🇸🇪 casinonisse.com 🇸🇪",
+              "value": 3
+            },
+            {
+              "query": "casino utan spelstopp 🇸🇪 casinonisse.com",
+              "value": 3
+            },
+            {
+              "query": "online casinos 🇦🇺 casinobino.sbs",
+              "value": 3
+            },
+            {
+              "query": "casino ohne oasis 🇩🇪 www.casinobino.com",
+              "value": 3
+            },
+            {
+              "query": "online casinos 🇬🇧 casinobino.sbs",
+              "value": 3
+            },
+            {
+              "query": "casino zonder cruks 🇳🇱 www.casinobino.com",
+              "value": 2
+            },
+            {
+              "query": "casino online 🇧🇪 casinojules.club",
+              "value": 2
+            },
+            {
+              "query": "online casino bonus 🇩🇪 www.stefancasino.pro",
+              "value": 2
+            }
+          ],
+          "rising": [
+            {
+              "query": "online casino 🇩🇪 www.stefancasino.pro",
+              "value": 231400
+            },
+            {
+              "query": "casino online 🇩🇪 casinod.cfd 🇩🇪",
+              "value": 151500
+            },
+            {
+              "query": "online casino 🇳🇱 www.casinobino.sbs",
+              "value": 82800
+            },
+            {
+              "query": "online casinos 🇩🇪 www.casinobino.sbs",
+              "value": 82750
+            },
+            {
+              "query": "casino utan spelpaus 🇸🇪 casinonisse.com 🇸🇪",
+              "value": 78600
+            },
+            {
+              "query": "online casinos 🇬🇧 www.casinobino.com",
+              "value": 77700
+            },
+            {
+              "query": "casino zonder cruks 🇳🇱 www.casinobino.sbs",
+              "value": 61100
+            },
+            {
+              "query": "casino utan svensk licens 🇸🇪 casinonisse.com 🇸🇪",
+              "value": 57300
+            },
+            {
+              "query": "casino utan spelstopp 🇸🇪 casinonisse.com",
+              "value": 55050
+            },
+            {
+              "query": "casino ohne oasis 🇩🇪 www.casinobino.com",
+              "value": 48550
+            },
+            {
+              "query": "online casinos 🇦🇺 casinobino.sbs",
+              "value": 48100
+            },
+            {
+              "query": "online casinos 🇬🇧 casinobino.sbs",
+              "value": 47500
+            },
+            {
+              "query": "casino zonder cruks 🇳🇱 www.casinobino.com",
+              "value": 40400
+            },
+            {
+              "query": "casino online 🇧🇪 casinojules.club",
+              "value": 39900
+            },
+            {
+              "query": "online casino bonus 🇩🇪 www.stefancasino.pro",
+              "value": 37750
+            },
+            {
+              "query": "casino utan spelstopp 🇸🇪 casinonisse.sbs",
+              "value": 3900
+            },
+            {
+              "query": "casino utan svensk licens 🇸🇪 casinonisse.sbs",
+              "value": 3100
+            },
+            {
+              "query": "casino utan svensk spelpaus 🇸🇪 casinonisse.sbs 🇸🇪",
+              "value": 2650
+            },
+            {
+              "query": "casino utan spelpaus 🇸🇪 casinonisse.sbs",
+              "value": 2300
+            }
+          ]
+        },
+        {
+          "keyword": "Downloader",
+          "timestamp": "2026-11-15 04:01:11",
+          "filename": "related_queries_Downloader_20261115_040111.json",
+          "top": [
+            {
+              "query": "downloader video",
+              "value": 100
+            },
+            {
+              "query": "video",
+              "value": 97
+            },
+            {
+              "query": "downloader youtube",
+              "value": 44
+            },
+            {
+              "query": "instagram downloader",
+              "value": 31
+            },
+            {
+              "query": "tiktok downloader",
+              "value": 29
+            },
+            {
+              "query": "download",
+              "value": 20
+            },
+            {
+              "query": "facebook downloader",
+              "value": 20
+            },
+            {
+              "query": "video downloader youtube",
+              "value": 18
+            },
+            {
+              "query": "mp3",
+              "value": 15
+            },
+            {
+              "query": "mp3 downloader",
+              "value": 14
+            },
+            {
+              "query": "pinterest downloader",
+              "value": 13
+            },
+            {
+              "query": "video downloader tiktok",
+              "value": 13
+            },
+            {
+              "query": "facebook video downloader",
+              "value": 13
+            },
+            {
+              "query": "instagram video downloader",
+              "value": 11
+            },
+            {
+              "query": "pinterest video downloader",
+              "value": 10
+            },
+            {
+              "query": "music downloader",
+              "value": 9
+            },
+            {
+              "query": "yt downloader",
+              "value": 8
+            },
+            {
+              "query": "downloader app",
+              "value": 7
+            },
+            {
+              "query": "twitter downloader",
+              "value": 7
+            },
+            {
+              "query": "apk downloader",
+              "value": 6
+            },
+            {
+              "query": "video downloader free",
+              "value": 5
+            },
+            {
+              "query": "video downloader online",
+              "value": 5
+            },
+            {
+              "query": "downloader fb",
+              "value": 5
+            },
+            {
+              "query": "youtube download",
+              "value": 5
+            },
+            {
+              "query": "mp4 downloader",
+              "value": 5
+            }
+          ],
+          "rising": [
+            {
+              "query": "xuper tv",
+              "value": 350
+            },
+            {
+              "query": "downloader para smart tv",
+              "value": 110
+            },
+            {
+              "query": "tiktokio video downloader",
+              "value": 90
+            },
+            {
+              "query": "descargar downloader",
+              "value": 80
+            },
+            {
+              "query": "tiktokio downloader",
+              "value": 60
+            },
+            {
+              "query": "downloader by aftvnews",
+              "value": 40
+            }
+          ]
+        },
+        {
+          "keyword": "Maker",
+          "timestamp": "2026-11-15 04:01:11",
+          "filename": "related_queries_Maker_20261115_040111.json",
+          "top": [
+            {
+              "query": "coffee maker",
+              "value": 100
+            },
+            {
+              "query": "ice maker",
+              "value": 72
+            },
+            {
+              "query": "video maker",
+              "value": 53
+            },
+            {
+              "query": "instagram video download",
+              "value": 23
+            },
+            {
+              "query": "instagram video download without water maker",
+              "value": 23
+            },
+            {
+              "query": "ninja",
+              "value": 22
+            },
+            {
+              "query": "maker world",
+              "value": 19
+            },
+            {
+              "query": "ice cream maker",
+              "value": 18
+            },
+            {
+              "query": "bread maker",
+              "value": 15
+            },
+            {
+              "query": "waffle maker",
+              "value": 15
+            },
+            {
+              "query": "pdf maker",
+              "value": 15
+            },
+            {
+              "query": "game maker",
+              "value": 15
+            },
+            {
+              "query": "gif",
+              "value": 14
+            },
+            {
+              "query": "gif maker",
+              "value": 14
+            },
+            {
+              "query": "logo maker",
+              "value": 13
+            },
+            {
+              "query": "cricut maker",
+              "value": 12
+            },
+            {
+              "query": "music maker",
+              "value": 12
+            },
+            {
+              "query": "cricut",
+              "value": 12
+            },
+            {
+              "query": "song maker",
+              "value": 11
+            },
+            {
+              "query": "ai video maker",
+              "value": 10
+            },
+            {
+              "query": "label maker",
+              "value": 10
+            },
+            {
+              "query": "espresso maker",
+              "value": 10
+            },
+            {
+              "query": "keurig",
+              "value": 10
+            },
+            {
+              "query": "keurig coffee maker",
+              "value": 10
+            },
+            {
+              "query": "image maker",
+              "value": 10
+            }
+          ],
+          "rising": [
+            {
+              "query": "bruvi coffee maker",
+              "value": 250
+            },
+            {
+              "query": "momcozy food maker",
+              "value": 180
+            },
+            {
+              "query": "momcozy baby food maker",
+              "value": 160
+            },
+            {
+              "query": "x maker joy 3d printer",
+              "value": 110
+            },
+            {
+              "query": "vltd maker",
+              "value": 70
+            },
+            {
+              "query": "x maker joy",
+              "value": 60
+            }
+          ]
+        },
+        {
+          "keyword": "Creator",
+          "timestamp": "2026-11-15 04:01:11",
+          "filename": "related_queries_Creator_20261115_040111.json",
+          "top": [
+            {
+              "query": "the creator",
+              "value": 100
+            },
+            {
+              "query": "content creator",
+              "value": 42
+            },
+            {
+              "query": "ai creator",
+              "value": 26
+            },
+            {
+              "query": "tyler the creator",
+              "value": 26
+            },
+            {
+              "query": "video creator",
+              "value": 16
+            },
+            {
+              "query": "lego creator",
+              "value": 16
+            },
+            {
+              "query": "creator roblox",
+              "value": 14
+            },
+            {
+              "query": "image creator",
+              "value": 12
+            },
+            {
+              "query": "youtube creator",
+              "value": 12
+            },
+            {
+              "query": "tiktok creator",
+              "value": 11
+            },
+            {
+              "query": "creator studio",
+              "value": 11
+            },
+            {
+              "query": "book creator",
+              "value": 9
+            },
+            {
+              "query": "character creator",
+              "value": 8
+            },
+            {
+              "query": "ugc",
+              "value": 8
+            },
+            {
+              "query": "ugc creator",
+              "value": 8
+            },
+            {
+              "query": "facebook creator",
+              "value": 7
+            },
+            {
+              "query": "google creator",
+              "value": 7
+            },
+            {
+              "query": "digital creator",
+              "value": 7
+            },
+            {
+              "query": "creator hub",
+              "value": 6
+            },
+            {
+              "query": "pdf creator",
+              "value": 6
+            },
+            {
+              "query": "bing image creator",
+              "value": 6
+            },
+            {
+              "query": "dji",
+              "value": 6
+            },
+            {
+              "query": "video creator ai",
+              "value": 5
+            },
+            {
+              "query": "music creator",
+              "value": 5
+            },
+            {
+              "query": "flashforge",
+              "value": 5
+            }
+          ],
+          "rising": [
+            {
+              "query": "bojack horseman creator",
+              "value": 850
+            },
+            {
+              "query": "content creator betekenis",
+              "value": 140
+            },
+            {
+              "query": "camp flog gnaw",
+              "value": 130
+            },
+            {
+              "query": "converse x tyler the creator",
+              "value": 120
+            },
+            {
+              "query": "nvidia creator",
+              "value": 110
+            },
+            {
+              "query": "creator of microsoft",
+              "value": 110
+            },
+            {
+              "query": "tyler the creator converse",
+              "value": 90
+            },
+            {
+              "query": "ugc creator это",
+              "value": 80
+            },
+            {
+              "query": "converse",
+              "value": 80
+            },
+            {
+              "query": "wif creator",
+              "value": 70
+            },
+            {
+              "query": "danganronpa creator physical media comments",
+              "value": 60
+            },
+            {
+              "query": "microsoft creator",
+              "value": 50
+            },
+            {
+              "query": "crayola story creator",
+              "value": 50
+            },
+            {
+              "query": "ak creator yt",
+              "value": 50
+            },
+            {
+              "query": "tyler the creator shoes",
+              "value": 40
+            }
+          ]
+        },
+        {
+          "keyword": "Editor",
+          "timestamp": "2026-11-15 04:01:11",
+          "filename": "related_queries_Editor_20261115_040111.json",
+          "top": [
+            {
+              "query": "editor pdf",
+              "value": 100
+            },
+            {
+              "query": "pdf",
+              "value": 96
+            },
+            {
+              "query": "online editor",
+              "value": 59
+            },
+            {
+              "query": "video editor",
+              "value": 52
+            },
+            {
+              "query": "ai editor",
+              "value": 46
+            },
+            {
+              "query": "photo editor",
+              "value": 38
+            },
+            {
+              "query": "pdf online editor",
+              "value": 29
+            },
+            {
+              "query": "free pdf editor",
+              "value": 21
+            },
+            {
+              "query": "ai photo editor",
+              "value": 19
+            },
+            {
+              "query": "image editor",
+              "value": 18
+            },
+            {
+              "query": "sejda pdf",
+              "value": 12
+            },
+            {
+              "query": "sejda pdf editor",
+              "value": 12
+            },
+            {
+              "query": "sejda",
+              "value": 12
+            },
+            {
+              "query": "text editor",
+              "value": 11
+            },
+            {
+              "query": "sejda editor",
+              "value": 11
+            },
+            {
+              "query": "save editor",
+              "value": 11
+            },
+            {
+              "query": "online free pdf editor",
+              "value": 11
+            },
+            {
+              "query": "video editor free",
+              "value": 10
+            },
+            {
+              "query": "image editor ai",
+              "value": 9
+            },
+            {
+              "query": "word editor",
+              "value": 9
+            },
+            {
+              "query": "video editor ai",
+              "value": 8
+            },
+            {
+              "query": "photo editor free",
+              "value": 7
+            },
+            {
+              "query": "code editor",
+              "value": 7
+            },
+            {
+              "query": "video editor online",
+              "value": 7
+            },
+            {
+              "query": "capcut",
+              "value": 6
+            }
+          ],
+          "rising": [
+            {
+              "query": "pg editor com",
+              "value": 1000
+            },
+            {
+              "query": "pg editor",
+              "value": 650
+            },
+            {
+              "query": "vikas editor",
+              "value": 180
+            },
+            {
+              "query": "vikash editor",
+              "value": 160
+            },
+            {
+              "query": "fc 27 live editor",
+              "value": 100
+            },
+            {
+              "query": "jopdf editor",
+              "value": 90
+            },
+            {
+              "query": "pdf to word convert pdf to word online for free",
+              "value": 60
+            },
+            {
+              "query": "preset editor",
+              "value": 50
+            },
+            {
+              "query": "m4 editor",
+              "value": 50
+            },
+            {
+              "query": "clipchamp",
+              "value": 50
+            },
+            {
+              "query": "hxd hex editor",
+              "value": 50
+            },
+            {
+              "query": "prompt seen",
+              "value": 50
+            }
+          ]
+        },
+        {
+          "keyword": "Processor",
+          "timestamp": "2026-11-15 04:01:11",
+          "filename": "related_queries_Processor_20261115_040111.json",
+          "top": [
+            {
+              "query": "food processor",
+              "value": 100
+            },
+            {
+              "query": "intel processor",
+              "value": 59
+            },
+            {
+              "query": "intel",
+              "value": 55
+            },
+            {
+              "query": "best processor",
+              "value": 43
+            },
+            {
+              "query": "laptop",
+              "value": 41
+            },
+            {
+              "query": "laptop processor",
+              "value": 40
+            },
+            {
+              "query": "amd",
+              "value": 39
+            },
+            {
+              "query": "amd processor",
+              "value": 38
+            },
+            {
+              "query": "ryzen processor",
+              "value": 35
+            },
+            {
+              "query": "ram",
+              "value": 27
+            },
+            {
+              "query": "nvidia processor",
+              "value": 24
+            },
+            {
+              "query": "i5 processor",
+              "value": 21
+            },
+            {
+              "query": "gpu",
+              "value": 21
+            },
+            {
+              "query": "snapdragon processor",
+              "value": 21
+            },
+            {
+              "query": "snapdragon",
+              "value": 21
+            },
+            {
+              "query": "i7 processor",
+              "value": 19
+            },
+            {
+              "query": "pc processor",
+              "value": 17
+            },
+            {
+              "query": "ninja",
+              "value": 15
+            },
+            {
+              "query": "hp",
+              "value": 14
+            },
+            {
+              "query": "blender",
+              "value": 14
+            },
+            {
+              "query": "cpu processor",
+              "value": 13
+            },
+            {
+              "query": "cpu",
+              "value": 13
+            },
+            {
+              "query": "ninja food processor",
+              "value": 12
+            },
+            {
+              "query": "amd ryzen 7",
+              "value": 10
+            },
+            {
+              "query": "motherboard",
+              "value": 10
+            }
+          ],
+          "rising": [
+            {
+              "query": "gpu",
+              "value": 250
+            },
+            {
+              "query": "nvidia processor",
+              "value": 250
+            },
+            {
+              "query": "ninja crushboss™ 4-in-1 blender, tumbler, food processor & dicing",
+              "value": 50
+            }
+          ]
+        }
+      ],
+      "missing_keywords": [
+        "Convert"
+      ],
+      "configured_keywords": 10,
+      "successful_keywords": 9
+    },
+    {
+      "name": "Design And Delivery",
+      "slug": "design-and-delivery",
+      "snapshots": [
+        {
+          "keyword": "Compiler",
+          "timestamp": "2026-11-15 04:07:31",
+          "filename": "related_queries_Compiler_20261115_040731.json",
+          "top": [
+            {
+              "query": "online compiler",
+              "value": 100
+            },
+            {
+              "query": "online",
+              "value": 100
+            },
+            {
+              "query": "compiler python",
+              "value": 41
+            },
+            {
+              "query": "python",
+              "value": 39
+            },
+            {
+              "query": "online python",
+              "value": 28
+            },
+            {
+              "query": "python online compiler",
+              "value": 28
+            },
+            {
+              "query": "python compiler online",
+              "value": 28
+            },
+            {
+              "query": "online compiler c",
+              "value": 22
+            },
+            {
+              "query": "compiler c++",
+              "value": 21
+            },
+            {
+              "query": "c++",
+              "value": 20
+            },
+            {
+              "query": "compiler java",
+              "value": 18
+            },
+            {
+              "query": "java",
+              "value": 18
+            },
+            {
+              "query": "online java compiler",
+              "value": 13
+            },
+            {
+              "query": "compiler online c++",
+              "value": 11
+            },
+            {
+              "query": "c++ online",
+              "value": 11
+            },
+            {
+              "query": "one compiler",
+              "value": 8
+            },
+            {
+              "query": "chatgpt online",
+              "value": 6
+            },
+            {
+              "query": "html compiler",
+              "value": 6
+            },
+            {
+              "query": "gdb compiler",
+              "value": 6
+            },
+            {
+              "query": "gdb",
+              "value": 6
+            },
+            {
+              "query": "code compiler",
+              "value": 5
+            },
+            {
+              "query": "html",
+              "value": 5
+            },
+            {
+              "query": "programiz",
+              "value": 4
+            },
+            {
+              "query": "sql compiler",
+              "value": 4
+            },
+            {
+              "query": "sql",
+              "value": 3
+            }
+          ],
+          "rising": [
+            {
+              "query": "cuims",
+              "value": 1500
+            },
+            {
+              "query": "dontpad",
+              "value": 300
+            },
+            {
+              "query": "tcs codevita",
+              "value": 300
+            },
+            {
+              "query": "qbasic online compiler",
+              "value": 100
+            },
+            {
+              "query": "fight karo.com",
+              "value": 90
+            },
+            {
+              "query": "online c complier",
+              "value": 80
+            },
+            {
+              "query": "pl/sql online compiler",
+              "value": 70
+            },
+            {
+              "query": "monkey typing",
+              "value": 70
+            },
+            {
+              "query": "codechef compiler c++",
+              "value": 50
+            },
+            {
+              "query": "chtgpt",
+              "value": 50
+            },
+            {
+              "query": "online games",
+              "value": 40
+            }
+          ]
+        },
+        {
+          "keyword": "Analyzer",
+          "timestamp": "2026-11-15 04:07:31",
+          "filename": "related_queries_Analyzer_20261115_040731.json",
+          "top": [
+            {
+              "query": "trade analyzer",
+              "value": 100
+            },
+            {
+              "query": "trade",
+              "value": 97
+            },
+            {
+              "query": "fantasy analyzer",
+              "value": 59
+            },
+            {
+              "query": "fantasy trade analyzer",
+              "value": 57
+            },
+            {
+              "query": "fantasy",
+              "value": 56
+            },
+            {
+              "query": "fantasy football analyzer",
+              "value": 25
+            },
+            {
+              "query": "fantasy football trade analyzer",
+              "value": 24
+            },
+            {
+              "query": "fantasy football",
+              "value": 24
+            },
+            {
+              "query": "ai analyzer",
+              "value": 9
+            },
+            {
+              "query": "spectrum analyzer",
+              "value": 8
+            },
+            {
+              "query": "trade analyzer nfl",
+              "value": 8
+            },
+            {
+              "query": "wifi analyzer",
+              "value": 5
+            },
+            {
+              "query": "gas analyzer",
+              "value": 4
+            },
+            {
+              "query": "trade analyzer nba",
+              "value": 4
+            },
+            {
+              "query": "power analyzer",
+              "value": 4
+            },
+            {
+              "query": "network analyzer",
+              "value": 4
+            },
+            {
+              "query": "chess analyzer",
+              "value": 3
+            },
+            {
+              "query": "logic analyzer",
+              "value": 3
+            },
+            {
+              "query": "nfl trade analyzer fantasy",
+              "value": 3
+            },
+            {
+              "query": "basketball trade analyzer",
+              "value": 3
+            },
+            {
+              "query": "hematology analyzer",
+              "value": 3
+            },
+            {
+              "query": "dynasty trade analyzer",
+              "value": 3
+            },
+            {
+              "query": "faceit analyzer",
+              "value": 3
+            },
+            {
+              "query": "nba fantasy",
+              "value": 3
+            },
+            {
+              "query": "faceit",
+              "value": 3
+            }
+          ],
+          "rising": [
+            {
+              "query": "kenneth walker",
+              "value": 200
+            },
+            {
+              "query": "cybershoke",
+              "value": 130
+            },
+            {
+              "query": "faceit finder",
+              "value": 100
+            },
+            {
+              "query": "fantasy baseball trade analyzer",
+              "value": 90
+            },
+            {
+              "query": "log file analyzer",
+              "value": 90
+            },
+            {
+              "query": "mindray hematology analyzer",
+              "value": 80
+            },
+            {
+              "query": "biochemistry analyzer",
+              "value": 60
+            },
+            {
+              "query": "fantasysp trade analyzer",
+              "value": 60
+            },
+            {
+              "query": "mail header analyzer",
+              "value": 60
+            },
+            {
+              "query": "netspot wifi analyzer",
+              "value": 60
+            },
+            {
+              "query": "fieldpiece combustion analyzer",
+              "value": 60
+            },
+            {
+              "query": "ffl trade analyzer",
+              "value": 50
+            },
+            {
+              "query": "website traffic analyzer",
+              "value": 50
+            },
+            {
+              "query": "start sit analyzer",
+              "value": 40
+            },
+            {
+              "query": "backlink analyzer",
+              "value": 40
+            },
+            {
+              "query": "start sit analyzer fantasy football",
+              "value": 40
+            },
+            {
+              "query": "tunebat analyzer",
+              "value": 40
+            }
+          ]
+        },
+        {
+          "keyword": "Evaluator",
+          "timestamp": "2026-11-15 04:07:31",
+          "filename": "related_queries_Evaluator_20261115_040731.json",
+          "top": [
+            {
+              "query": "trade evaluator",
+              "value": 100
+            },
+            {
+              "query": "evaluator jobs",
+              "value": 100
+            },
+            {
+              "query": "fantasy trade evaluator",
+              "value": 64
+            },
+            {
+              "query": "search engine evaluator",
+              "value": 43
+            },
+            {
+              "query": "fantasy football trade evaluator",
+              "value": 43
+            },
+            {
+              "query": "ai evaluator jobs",
+              "value": 35
+            },
+            {
+              "query": "evaluator meaning",
+              "value": 29
+            },
+            {
+              "query": "micro1",
+              "value": 21
+            },
+            {
+              "query": "search engine evaluator jobs",
+              "value": 18
+            },
+            {
+              "query": "property evaluator",
+              "value": 18
+            },
+            {
+              "query": "csp evaluator",
+              "value": 16
+            },
+            {
+              "query": "rws",
+              "value": 16
+            },
+            {
+              "query": "ep evaluator",
+              "value": 11
+            },
+            {
+              "query": "evaluator imobiliar",
+              "value": 10
+            },
+            {
+              "query": "resume evaluator",
+              "value": 10
+            },
+            {
+              "query": "social media evaluator",
+              "value": 9
+            },
+            {
+              "query": "evaluator anevar",
+              "value": 9
+            },
+            {
+              "query": "pokemon evaluator",
+              "value": 9
+            },
+            {
+              "query": "social media evaluator jobs",
+              "value": 7
+            },
+            {
+              "query": "mercor",
+              "value": 7
+            },
+            {
+              "query": "hsin evaluator",
+              "value": 3
+            },
+            {
+              "query": "welocalize",
+              "value": 3
+            },
+            {
+              "query": "google csp evaluator",
+              "value": 3
+            },
+            {
+              "query": "aws migration evaluator",
+              "value": 3
+            },
+            {
+              "query": "jsonpath online evaluator",
+              "value": 2
+            }
+          ],
+          "rising": [
+            {
+              "query": "micro1",
+              "value": 300
+            },
+            {
+              "query": "jsonpath online evaluator",
+              "value": 190
+            },
+            {
+              "query": "google csp evaluator",
+              "value": 190
+            },
+            {
+              "query": "hsin evaluator",
+              "value": 130
+            },
+            {
+              "query": "search engine evaluator jobs",
+              "value": 100
+            },
+            {
+              "query": "resume evaluator",
+              "value": 100
+            },
+            {
+              "query": "aws migration evaluator",
+              "value": 100
+            },
+            {
+              "query": "welocalize",
+              "value": 70
+            },
+            {
+              "query": "evaluator anevar",
+              "value": 50
+            },
+            {
+              "query": "social media evaluator jobs",
+              "value": 50
+            }
+          ]
+        },
+        {
+          "keyword": "Sender",
+          "timestamp": "2026-11-15 04:07:31",
+          "filename": "related_queries_Sender_20261115_040731.json",
+          "top": [
+            {
+              "query": "email sender",
+              "value": 100
+            },
+            {
+              "query": "tv sender",
+              "value": 87
+            },
+            {
+              "query": "return to sender",
+              "value": 73
+            },
+            {
+              "query": "message sender",
+              "value": 59
+            },
+            {
+              "query": "mail sender",
+              "value": 48
+            },
+            {
+              "query": "deutschland",
+              "value": 48
+            },
+            {
+              "query": "fernsehprogramm",
+              "value": 37
+            },
+            {
+              "query": "sender one",
+              "value": 36
+            },
+            {
+              "query": "sender whatsapp",
+              "value": 35
+            },
+            {
+              "query": "radio sender",
+              "value": 30
+            },
+            {
+              "query": "deutschland serbien",
+              "value": 30
+            },
+            {
+              "query": "deutschland serbien sender",
+              "value": 29
+            },
+            {
+              "query": "fuel sender",
+              "value": 29
+            },
+            {
+              "query": "back to sender",
+              "value": 28
+            },
+            {
+              "query": "sender app",
+              "value": 24
+            },
+            {
+              "query": "fernsehprogramm heute alle sender",
+              "value": 24
+            },
+            {
+              "query": "fernsehprogramm 20.15 alle sender",
+              "value": 21
+            },
+            {
+              "query": "fernsehprogramm heute 20.15 alle sender",
+              "value": 20
+            },
+            {
+              "query": "sms sender",
+              "value": 19
+            },
+            {
+              "query": "fernsehprogramm heute abend",
+              "value": 19
+            },
+            {
+              "query": "fernsehprogramm heute abend alle sender",
+              "value": 19
+            },
+            {
+              "query": "fernsehprogramm heute abend 20.15 alle sender",
+              "value": 17
+            },
+            {
+              "query": "rtl",
+              "value": 16
+            },
+            {
+              "query": "rtl sender",
+              "value": 16
+            },
+            {
+              "query": "ard",
+              "value": 16
+            }
+          ],
+          "rising": [
+            {
+              "query": "türkei belgien",
+              "value": 1850
+            },
+            {
+              "query": "deutschland serbien",
+              "value": 1800
+            },
+            {
+              "query": "deutschland serbien sender",
+              "value": 1800
+            },
+            {
+              "query": "deutschland gegen serbien",
+              "value": 1700
+            },
+            {
+              "query": "deutschland serbien welcher sender",
+              "value": 1400
+            },
+            {
+              "query": "welcher sender überträgt heute das deutschlandspiel",
+              "value": 1250
+            },
+            {
+              "query": "deutschland serbien live zdf",
+              "value": 1050
+            },
+            {
+              "query": "deutschland spiel",
+              "value": 800
+            },
+            {
+              "query": "rtl live stream",
+              "value": 750
+            },
+            {
+              "query": "wann spielt deutschland gegen serbien",
+              "value": 700
+            },
+            {
+              "query": "serbien vs deutschland",
+              "value": 700
+            },
+            {
+              "query": "fußball heute welcher sender",
+              "value": 650
+            },
+            {
+              "query": "rtl live",
+              "value": 650
+            },
+            {
+              "query": "welcher sender überträgt heute fußball",
+              "value": 600
+            },
+            {
+              "query": "fußball heute",
+              "value": 600
+            },
+            {
+              "query": "wann spielt deutschland",
+              "value": 550
+            },
+            {
+              "query": "fussball heute",
+              "value": 450
+            },
+            {
+              "query": "auf welchem sender wird heute fußball übertragen",
+              "value": 400
+            },
+            {
+              "query": "deutschland",
+              "value": 350
+            },
+            {
+              "query": "rtl",
+              "value": 130
+            },
+            {
+              "query": "rtl sender",
+              "value": 120
+            }
+          ]
+        },
+        {
+          "keyword": "Receiver",
+          "timestamp": "2026-11-15 04:07:31",
+          "filename": "related_queries_Receiver_20261115_040731.json",
+          "top": [
+            {
+              "query": "wide receiver",
+              "value": 100
+            },
+            {
+              "query": "wireless receiver",
+              "value": 52
+            },
+            {
+              "query": "bluetooth",
+              "value": 50
+            },
+            {
+              "query": "bluetooth receiver",
+              "value": 48
+            },
+            {
+              "query": "receiver tv",
+              "value": 35
+            },
+            {
+              "query": "receiver hitch",
+              "value": 32
+            },
+            {
+              "query": "av receiver",
+              "value": 31
+            },
+            {
+              "query": "audio receiver",
+              "value": 30
+            },
+            {
+              "query": "usb receiver",
+              "value": 26
+            },
+            {
+              "query": "receiver football",
+              "value": 25
+            },
+            {
+              "query": "receiver yamaha",
+              "value": 25
+            },
+            {
+              "query": "transmitter and receiver",
+              "value": 24
+            },
+            {
+              "query": "stereo receiver",
+              "value": 24
+            },
+            {
+              "query": "lower receiver",
+              "value": 24
+            },
+            {
+              "query": "receiver denon",
+              "value": 21
+            },
+            {
+              "query": "denon",
+              "value": 21
+            },
+            {
+              "query": "radio receiver",
+              "value": 19
+            },
+            {
+              "query": "logitech receiver",
+              "value": 17
+            },
+            {
+              "query": "logitech",
+              "value": 17
+            },
+            {
+              "query": "sony receiver",
+              "value": 15
+            },
+            {
+              "query": "phone receiver",
+              "value": 13
+            },
+            {
+              "query": "wide receiver nfl",
+              "value": 13
+            },
+            {
+              "query": "pioneer receiver",
+              "value": 13
+            },
+            {
+              "query": "receiver onkyo",
+              "value": 13
+            },
+            {
+              "query": "onkyo",
+              "value": 13
+            }
+          ],
+          "rising": [
+            {
+              "query": "why did the philadelphia eagles waive wide receiver hollywood brown",
+              "value": 8000
+            },
+            {
+              "query": "telekom media receiver 401",
+              "value": 800
+            },
+            {
+              "query": "cj daniels",
+              "value": 550
+            },
+            {
+              "query": "bucs wide receiver roster cuts",
+              "value": 450
+            },
+            {
+              "query": "isaiah likely",
+              "value": 350
+            },
+            {
+              "query": "colts wide receiver trades",
+              "value": 200
+            },
+            {
+              "query": "steelers trade deadline wide receiver targets",
+              "value": 200
+            },
+            {
+              "query": "bluetooth audio receiver for pc",
+              "value": 150
+            },
+            {
+              "query": "jayden daniels stats",
+              "value": 140
+            },
+            {
+              "query": "stefon diggs",
+              "value": 120
+            }
+          ]
+        },
+        {
+          "keyword": "Interpreter",
+          "timestamp": "2026-11-15 04:07:31",
+          "filename": "related_queries_Interpreter_20261115_040731.json",
+          "top": [
+            {
+              "query": "the interpreter",
+              "value": 100
+            },
+            {
+              "query": "python interpreter",
+              "value": 54
+            },
+            {
+              "query": "python",
+              "value": 54
+            },
+            {
+              "query": "language interpreter",
+              "value": 52
+            },
+            {
+              "query": "what is interpreter",
+              "value": 41
+            },
+            {
+              "query": "interpreter jobs",
+              "value": 35
+            },
+            {
+              "query": "medical interpreter",
+              "value": 33
+            },
+            {
+              "query": "online interpreter",
+              "value": 27
+            },
+            {
+              "query": "asl interpreter",
+              "value": 26
+            },
+            {
+              "query": "what is a interpreter",
+              "value": 26
+            },
+            {
+              "query": "spanish interpreter",
+              "value": 24
+            },
+            {
+              "query": "sign language interpreter",
+              "value": 23
+            },
+            {
+              "query": "interpreter services",
+              "value": 23
+            },
+            {
+              "query": "code interpreter",
+              "value": 21
+            },
+            {
+              "query": "court interpreter",
+              "value": 20
+            },
+            {
+              "query": "compiler",
+              "value": 19
+            },
+            {
+              "query": "english interpreter",
+              "value": 19
+            },
+            {
+              "query": "ai interpreter",
+              "value": 19
+            },
+            {
+              "query": "my interpreter",
+              "value": 17
+            },
+            {
+              "query": "what is an interpreter",
+              "value": 16
+            },
+            {
+              "query": "interpreter meaning",
+              "value": 16
+            },
+            {
+              "query": "interpreter translator",
+              "value": 16
+            },
+            {
+              "query": "online python interpreter",
+              "value": 15
+            },
+            {
+              "query": "python online",
+              "value": 14
+            },
+            {
+              "query": "python online interpreter",
+              "value": 14
+            }
+          ],
+          "rising": [
+            {
+              "query": "dream interpretation",
+              "value": 5800
+            },
+            {
+              "query": "interpreter translator 違い",
+              "value": 2600
+            },
+            {
+              "query": "somali interpreter jobs",
+              "value": 350
+            },
+            {
+              "query": "interpreter artinya",
+              "value": 300
+            },
+            {
+              "query": "islamic dream interpreter",
+              "value": 250
+            },
+            {
+              "query": "best time to visit maldives",
+              "value": 180
+            },
+            {
+              "query": "sean penn",
+              "value": 130
+            },
+            {
+              "query": "abg interpreter",
+              "value": 110
+            },
+            {
+              "query": "the covenant",
+              "value": 110
+            },
+            {
+              "query": "turkish interpreter jobs",
+              "value": 100
+            },
+            {
+              "query": "how to select python interpreter in vs code",
+              "value": 90
+            },
+            {
+              "query": "interpreter 中文",
+              "value": 80
+            }
+          ]
+        },
+        {
+          "keyword": "Uploader",
+          "timestamp": "2026-11-15 04:07:31",
+          "filename": "related_queries_Uploader_20261115_040731.json",
+          "top": [
+            {
+              "query": "image uploader",
+              "value": 100
+            },
+            {
+              "query": "file uploader",
+              "value": 95
+            },
+            {
+              "query": "video uploader",
+              "value": 95
+            },
+            {
+              "query": "free uploader",
+              "value": 57
+            },
+            {
+              "query": "youtube uploader",
+              "value": 57
+            },
+            {
+              "query": "card uploader",
+              "value": 32
+            },
+            {
+              "query": "photo uploader",
+              "value": 30
+            },
+            {
+              "query": "bbc uploader",
+              "value": 28
+            },
+            {
+              "query": "drive uploader",
+              "value": 22
+            },
+            {
+              "query": "bbc introducing",
+              "value": 20
+            },
+            {
+              "query": "bbc introducing uploader",
+              "value": 20
+            },
+            {
+              "query": "web uploader",
+              "value": 20
+            },
+            {
+              "query": "2k image uploader",
+              "value": 17
+            },
+            {
+              "query": "wwe image uploader",
+              "value": 16
+            },
+            {
+              "query": "music uploader",
+              "value": 15
+            },
+            {
+              "query": "skin uploader",
+              "value": 15
+            },
+            {
+              "query": "mp3 uploader",
+              "value": 13
+            },
+            {
+              "query": "wwe 2k image uploader",
+              "value": 13
+            },
+            {
+              "query": "excel uploader",
+              "value": 12
+            },
+            {
+              "query": "google drive uploader",
+              "value": 12
+            },
+            {
+              "query": "file uploader free",
+              "value": 11
+            },
+            {
+              "query": "catbox",
+              "value": 11
+            },
+            {
+              "query": "free image uploader",
+              "value": 10
+            },
+            {
+              "query": "gif uploader",
+              "value": 10
+            },
+            {
+              "query": "bir excel uploader",
+              "value": 8
+            }
+          ],
+          "rising": [
+            {
+              "query": "carduploader",
+              "value": 21700
+            },
+            {
+              "query": "wwe2k image uploader",
+              "value": 700
+            },
+            {
+              "query": "scs workshop uploader",
+              "value": 170
+            },
+            {
+              "query": "fflogs uploader",
+              "value": 120
+            },
+            {
+              "query": "free image uploader",
+              "value": 90
+            },
+            {
+              "query": "soundcloud",
+              "value": 90
+            },
+            {
+              "query": "img uploader",
+              "value": 80
+            },
+            {
+              "query": "screenshot uploader",
+              "value": 60
+            },
+            {
+              "query": "file uploader free",
+              "value": 50
+            },
+            {
+              "query": "bir excel uploader",
+              "value": 50
+            },
+            {
+              "query": "2k image uploader",
+              "value": 50
+            },
+            {
+              "query": "mp3 uploader",
+              "value": 50
+            }
+          ]
+        }
+      ],
+      "missing_keywords": [
+        "Designer",
+        "Calculator",
+        "Sample"
+      ],
+      "configured_keywords": 10,
+      "successful_keywords": 7
+    },
+    {
+      "name": "Templates And Discovery",
+      "slug": "templates-and-discovery",
+      "snapshots": [],
+      "missing_keywords": [
+        "Template",
+        "Format",
+        "Builder",
+        "Scheme",
+        "Pattern",
+        "Checker",
+        "Detector",
+        "Scraper",
+        "Manager",
+        "Explorer"
+      ],
+      "configured_keywords": 10,
+      "successful_keywords": 0
+    },
+    {
+      "name": "Planning And Tracking",
+      "slug": "planning-and-tracking",
+      "snapshots": [],
+      "missing_keywords": [
+        "Dashboard",
+        "Planner",
+        "Tracker",
+        "Recorder",
+        "Optimizer"
+      ],
+      "configured_keywords": 5,
+      "successful_keywords": 0
+    },
+    {
+      "name": "Automation And Monitoring",
+      "slug": "automation-and-monitoring",
+      "snapshots": [],
+      "missing_keywords": [
+        "Scheduler",
+        "Converter",
+        "Viewer",
+        "Extractor",
+        "Monitor",
+        "Notifier",
+        "Verifier",
+        "Simulator",
+        "Assistant",
+        "Constructor"
+      ],
+      "configured_keywords": 10,
+      "successful_keywords": 0
+    },
+    {
+      "name": "Navigation And Response",
+      "slug": "navigation-and-response",
+      "snapshots": [],
+      "missing_keywords": [
+        "Comparator",
+        "Navigator",
+        "Syncer",
+        "Connector",
+        "Cataloger",
+        "Responder"
+      ],
+      "configured_keywords": 6,
+      "successful_keywords": 0
+    }
+  ],
+  "high_rising_trends": [
+    {
+      "keyword": "Example",
+      "query": "biscayne bay for example nyt",
+      "value": 1150
+    },
+    {
+      "keyword": "Online",
+      "query": "online casino 🇩🇪 www.stefancasino.pro",
+      "value": 231400
+    },
+    {
+      "keyword": "Online",
+      "query": "casino online 🇩🇪 casinod.cfd 🇩🇪",
+      "value": 151500
+    },
+    {
+      "keyword": "Online",
+      "query": "online casino 🇳🇱 www.casinobino.sbs",
+      "value": 82800
+    },
+    {
+      "keyword": "Online",
+      "query": "online casinos 🇩🇪 www.casinobino.sbs",
+      "value": 82750
+    },
+    {
+      "keyword": "Online",
+      "query": "casino utan spelpaus 🇸🇪 casinonisse.com 🇸🇪",
+      "value": 78600
+    },
+    {
+      "keyword": "Online",
+      "query": "online casinos 🇬🇧 www.casinobino.com",
+      "value": 77700
+    },
+    {
+      "keyword": "Online",
+      "query": "casino zonder cruks 🇳🇱 www.casinobino.sbs",
+      "value": 61100
+    },
+    {
+      "keyword": "Online",
+      "query": "casino utan svensk licens 🇸🇪 casinonisse.com 🇸🇪",
+      "value": 57300
+    },
+    {
+      "keyword": "Online",
+      "query": "casino utan spelstopp 🇸🇪 casinonisse.com",
+      "value": 55050
+    },
+    {
+      "keyword": "Online",
+      "query": "casino ohne oasis 🇩🇪 www.casinobino.com",
+      "value": 48550
+    },
+    {
+      "keyword": "Online",
+      "query": "online casinos 🇦🇺 casinobino.sbs",
+      "value": 48100
+    },
+    {
+      "keyword": "Online",
+      "query": "online casinos 🇬🇧 casinobino.sbs",
+      "value": 47500
+    },
+    {
+      "keyword": "Online",
+      "query": "casino zonder cruks 🇳🇱 www.casinobino.com",
+      "value": 40400
+    },
+    {
+      "keyword": "Online",
+      "query": "casino online 🇧🇪 casinojules.club",
+      "value": 39900
+    },
+    {
+      "keyword": "Online",
+      "query": "online casino bonus 🇩🇪 www.stefancasino.pro",
+      "value": 37750
+    },
+    {
+      "keyword": "Online",
+      "query": "casino utan spelstopp 🇸🇪 casinonisse.sbs",
+      "value": 3900
+    },
+    {
+      "keyword": "Online",
+      "query": "casino utan svensk licens 🇸🇪 casinonisse.sbs",
+      "value": 3100
+    },
+    {
+      "keyword": "Online",
+      "query": "casino utan svensk spelpaus 🇸🇪 casinonisse.sbs 🇸🇪",
+      "value": 2650
+    },
+    {
+      "keyword": "Online",
+      "query": "casino utan spelpaus 🇸🇪 casinonisse.sbs",
+      "value": 2300
+    },
+    {
+      "keyword": "Creator",
+      "query": "bojack horseman creator",
+      "value": 850
+    },
+    {
+      "keyword": "Editor",
+      "query": "pg editor com",
+      "value": 1000
+    },
+    {
+      "keyword": "Editor",
+      "query": "pg editor",
+      "value": 650
+    },
+    {
+      "keyword": "Compiler",
+      "query": "cuims",
+      "value": 1500
+    },
+    {
+      "keyword": "Sender",
+      "query": "türkei belgien",
+      "value": 1850
+    },
+    {
+      "keyword": "Sender",
+      "query": "deutschland serbien",
+      "value": 1800
+    },
+    {
+      "keyword": "Sender",
+      "query": "deutschland serbien sender",
+      "value": 1800
+    },
+    {
+      "keyword": "Sender",
+      "query": "deutschland gegen serbien",
+      "value": 1700
+    },
+    {
+      "keyword": "Sender",
+      "query": "deutschland serbien welcher sender",
+      "value": 1400
+    },
+    {
+      "keyword": "Sender",
+      "query": "welcher sender überträgt heute das deutschlandspiel",
+      "value": 1250
+    },
+    {
+      "keyword": "Sender",
+      "query": "deutschland serbien live zdf",
+      "value": 1050
+    },
+    {
+      "keyword": "Sender",
+      "query": "deutschland spiel",
+      "value": 800
+    },
+    {
+      "keyword": "Sender",
+      "query": "rtl live stream",
+      "value": 750
+    },
+    {
+      "keyword": "Sender",
+      "query": "wann spielt deutschland gegen serbien",
+      "value": 700
+    },
+    {
+      "keyword": "Sender",
+      "query": "serbien vs deutschland",
+      "value": 700
+    },
+    {
+      "keyword": "Sender",
+      "query": "fußball heute welcher sender",
+      "value": 650
+    },
+    {
+      "keyword": "Sender",
+      "query": "rtl live",
+      "value": 650
+    },
+    {
+      "keyword": "Sender",
+      "query": "welcher sender überträgt heute fußball",
+      "value": 600
+    },
+    {
+      "keyword": "Sender",
+      "query": "fußball heute",
+      "value": 600
+    },
+    {
+      "keyword": "Sender",
+      "query": "wann spielt deutschland",
+      "value": 550
+    },
+    {
+      "keyword": "Receiver",
+      "query": "why did the philadelphia eagles waive wide receiver hollywood brown",
+      "value": 8000
+    },
+    {
+      "keyword": "Receiver",
+      "query": "telekom media receiver 401",
+      "value": 800
+    },
+    {
+      "keyword": "Receiver",
+      "query": "cj daniels",
+      "value": 550
+    },
+    {
+      "keyword": "Interpreter",
+      "query": "dream interpretation",
+      "value": 5800
+    },
+    {
+      "keyword": "Interpreter",
+      "query": "interpreter translator 違い",
+      "value": 2600
+    },
+    {
+      "keyword": "Uploader",
+      "query": "carduploader",
+      "value": 21700
+    },
+    {
+      "keyword": "Uploader",
+      "query": "wwe2k image uploader",
+      "value": 700
+    }
+  ],
+  "summary": {
+    "configured_keywords": 51,
+    "successful_keywords": 16,
+    "failed_keywords": 35,
+    "high_rising_count": 47
+  },
+  "files": {
+    "csv": "data/20261115/daily_report_20261115.csv",
+    "json": "data/20261115/snapshot.json",
+    "history": "data/history.json",
+    "assets": [
+      "data/20261115/daily_report_20261115.csv",
+      "data/20261115/related_queries_Analyzer_20261115_040731.json",
+      "data/20261115/related_queries_Compiler_20261115_040731.json",
+      "data/20261115/related_queries_Creator_20261115_040111.json",
+      "data/20261115/related_queries_Downloader_20261115_040111.json",
+      "data/20261115/related_queries_Editor_20261115_040111.json",
+      "data/20261115/related_queries_Evaluator_20261115_040731.json",
+      "data/20261115/related_queries_Example_20261115_040111.json",
+      "data/20261115/related_queries_Generator_20261115_040111.json",
+      "data/20261115/related_queries_Interpreter_20261115_040731.json",
+      "data/20261115/related_queries_Maker_20261115_040111.json",
+      "data/20261115/related_queries_Online_20261115_040111.json",
+      "data/20261115/related_queries_Processor_20261115_040111.json",
+      "data/20261115/related_queries_Receiver_20261115_040731.json",
+      "data/20261115/related_queries_Sender_20261115_040731.json",
+      "data/20261115/related_queries_Translator_20261115_040111.json",
+      "data/20261115/related_queries_Uploader_20261115_040731.json"
+    ]
+  }
+}
