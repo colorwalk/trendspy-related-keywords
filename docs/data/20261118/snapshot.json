@@ -1,0 +1,540 @@
+{
+  "date": "20261118",
+  "generated_at": "2026-11-18 01:08:04",
+  "requested_timeframe": "last-3-d",
+  "resolved_timeframe": "2026-11-15 2026-11-18",
+  "region": "Global",
+  "source_directory": "data_20261118",
+  "snapshots": [
+    {
+      "keyword": "Processor",
+      "timestamp": "2026-11-18 00:47:19",
+      "filename": "related_queries_Processor_20261118_004719.json",
+      "top": [
+        {
+          "query": "food processor",
+          "value": 100
+        },
+        {
+          "query": "intel processor",
+          "value": 49
+        },
+        {
+          "query": "intel",
+          "value": 49
+        },
+        {
+          "query": "best processor",
+          "value": 37
+        },
+        {
+          "query": "amd processor",
+          "value": 37
+        },
+        {
+          "query": "amd",
+          "value": 36
+        },
+        {
+          "query": "ryzen processor",
+          "value": 32
+        },
+        {
+          "query": "laptop processor",
+          "value": 28
+        },
+        {
+          "query": "laptop",
+          "value": 27
+        },
+        {
+          "query": "ram",
+          "value": 22
+        },
+        {
+          "query": "snapdragon processor",
+          "value": 17
+        },
+        {
+          "query": "ninja processor",
+          "value": 16
+        },
+        {
+          "query": "ninja",
+          "value": 16
+        },
+        {
+          "query": "i5 processor",
+          "value": 16
+        },
+        {
+          "query": "pc processor",
+          "value": 15
+        },
+        {
+          "query": "pc",
+          "value": 15
+        },
+        {
+          "query": "blender",
+          "value": 15
+        },
+        {
+          "query": "ninja food processor",
+          "value": 13
+        },
+        {
+          "query": "ryzen 7",
+          "value": 13
+        },
+        {
+          "query": "i7 processor",
+          "value": 12
+        },
+        {
+          "query": "blender food processor",
+          "value": 12
+        },
+        {
+          "query": "cpu",
+          "value": 11
+        },
+        {
+          "query": "amd ryzen 7",
+          "value": 11
+        },
+        {
+          "query": "hp",
+          "value": 10
+        },
+        {
+          "query": "amd ryzen 5",
+          "value": 10
+        }
+      ],
+      "rising": [
+        {
+          "query": "amd ryzen 7 9850x3d processor 4.7 ghz 96 mb l3 tray",
+          "value": 15950
+        },
+        {
+          "query": "alienware aurora gaming desktop act1250 intel core ultra 9 285 processor",
+          "value": 7900
+        },
+        {
+          "query": "intel core i5-14400f lga 1700 processor bx8071514400f",
+          "value": 6600
+        },
+        {
+          "query": "intel core i5-14600kf processor 24 mb",
+          "value": 3300
+        },
+        {
+          "query": "luma video processor",
+          "value": 400
+        },
+        {
+          "query": "luma",
+          "value": 300
+        },
+        {
+          "query": "ninja crushboss 4-in-1 blender, processor & auto dicing, 1850pw, lb451bk1",
+          "value": 140
+        },
+        {
+          "query": "amd ryzen 9 5950x 16-core processor",
+          "value": 110
+        },
+        {
+          "query": "kitchenaid food processor aufsatz",
+          "value": 110
+        },
+        {
+          "query": "kitchenaid 7 cup food processor",
+          "value": 80
+        },
+        {
+          "query": "pc part picker",
+          "value": 80
+        },
+        {
+          "query": "cuisinart food processor parts",
+          "value": 70
+        },
+        {
+          "query": "deer processor near me",
+          "value": 60
+        },
+        {
+          "query": "h110 motherboard supported processor",
+          "value": 60
+        },
+        {
+          "query": "hand held food processor",
+          "value": 60
+        },
+        {
+          "query": "deer processor",
+          "value": 60
+        },
+        {
+          "query": "ninja crush boss",
+          "value": 50
+        },
+        {
+          "query": "ninja food processor attachment",
+          "value": 50
+        },
+        {
+          "query": "cuisinart 14 cup food processor",
+          "value": 50
+        },
+        {
+          "query": "meat processor near me",
+          "value": 50
+        },
+        {
+          "query": "latest intel processor i11",
+          "value": 40
+        }
+      ]
+    }
+  ],
+  "grouped_snapshots": [
+    {
+      "name": "Translation And Creation",
+      "slug": "translation-and-creation",
+      "snapshots": [
+        {
+          "keyword": "Processor",
+          "timestamp": "2026-11-18 00:47:19",
+          "filename": "related_queries_Processor_20261118_004719.json",
+          "top": [
+            {
+              "query": "food processor",
+              "value": 100
+            },
+            {
+              "query": "intel processor",
+              "value": 49
+            },
+            {
+              "query": "intel",
+              "value": 49
+            },
+            {
+              "query": "best processor",
+              "value": 37
+            },
+            {
+              "query": "amd processor",
+              "value": 37
+            },
+            {
+              "query": "amd",
+              "value": 36
+            },
+            {
+              "query": "ryzen processor",
+              "value": 32
+            },
+            {
+              "query": "laptop processor",
+              "value": 28
+            },
+            {
+              "query": "laptop",
+              "value": 27
+            },
+            {
+              "query": "ram",
+              "value": 22
+            },
+            {
+              "query": "snapdragon processor",
+              "value": 17
+            },
+            {
+              "query": "ninja processor",
+              "value": 16
+            },
+            {
+              "query": "ninja",
+              "value": 16
+            },
+            {
+              "query": "i5 processor",
+              "value": 16
+            },
+            {
+              "query": "pc processor",
+              "value": 15
+            },
+            {
+              "query": "pc",
+              "value": 15
+            },
+            {
+              "query": "blender",
+              "value": 15
+            },
+            {
+              "query": "ninja food processor",
+              "value": 13
+            },
+            {
+              "query": "ryzen 7",
+              "value": 13
+            },
+            {
+              "query": "i7 processor",
+              "value": 12
+            },
+            {
+              "query": "blender food processor",
+              "value": 12
+            },
+            {
+              "query": "cpu",
+              "value": 11
+            },
+            {
+              "query": "amd ryzen 7",
+              "value": 11
+            },
+            {
+              "query": "hp",
+              "value": 10
+            },
+            {
+              "query": "amd ryzen 5",
+              "value": 10
+            }
+          ],
+          "rising": [
+            {
+              "query": "amd ryzen 7 9850x3d processor 4.7 ghz 96 mb l3 tray",
+              "value": 15950
+            },
+            {
+              "query": "alienware aurora gaming desktop act1250 intel core ultra 9 285 processor",
+              "value": 7900
+            },
+            {
+              "query": "intel core i5-14400f lga 1700 processor bx8071514400f",
+              "value": 6600
+            },
+            {
+              "query": "intel core i5-14600kf processor 24 mb",
+              "value": 3300
+            },
+            {
+              "query": "luma video processor",
+              "value": 400
+            },
+            {
+              "query": "luma",
+              "value": 300
+            },
+            {
+              "query": "ninja crushboss 4-in-1 blender, processor & auto dicing, 1850pw, lb451bk1",
+              "value": 140
+            },
+            {
+              "query": "amd ryzen 9 5950x 16-core processor",
+              "value": 110
+            },
+            {
+              "query": "kitchenaid food processor aufsatz",
+              "value": 110
+            },
+            {
+              "query": "kitchenaid 7 cup food processor",
+              "value": 80
+            },
+            {
+              "query": "pc part picker",
+              "value": 80
+            },
+            {
+              "query": "cuisinart food processor parts",
+              "value": 70
+            },
+            {
+              "query": "deer processor near me",
+              "value": 60
+            },
+            {
+              "query": "h110 motherboard supported processor",
+              "value": 60
+            },
+            {
+              "query": "hand held food processor",
+              "value": 60
+            },
+            {
+              "query": "deer processor",
+              "value": 60
+            },
+            {
+              "query": "ninja crush boss",
+              "value": 50
+            },
+            {
+              "query": "ninja food processor attachment",
+              "value": 50
+            },
+            {
+              "query": "cuisinart 14 cup food processor",
+              "value": 50
+            },
+            {
+              "query": "meat processor near me",
+              "value": 50
+            },
+            {
+              "query": "latest intel processor i11",
+              "value": 40
+            }
+          ]
+        }
+      ],
+      "missing_keywords": [
+        "Translator",
+        "Generator",
+        "Example",
+        "Convert",
+        "Online",
+        "Downloader",
+        "Maker",
+        "Creator",
+        "Editor"
+      ],
+      "configured_keywords": 10,
+      "successful_keywords": 1
+    },
+    {
+      "name": "Design And Delivery",
+      "slug": "design-and-delivery",
+      "snapshots": [],
+      "missing_keywords": [
+        "Designer",
+        "Compiler",
+        "Analyzer",
+        "Evaluator",
+        "Sender",
+        "Receiver",
+        "Interpreter",
+        "Uploader",
+        "Calculator",
+        "Sample"
+      ],
+      "configured_keywords": 10,
+      "successful_keywords": 0
+    },
+    {
+      "name": "Templates And Discovery",
+      "slug": "templates-and-discovery",
+      "snapshots": [],
+      "missing_keywords": [
+        "Template",
+        "Format",
+        "Builder",
+        "Scheme",
+        "Pattern",
+        "Checker",
+        "Detector",
+        "Scraper",
+        "Manager",
+        "Explorer"
+      ],
+      "configured_keywords": 10,
+      "successful_keywords": 0
+    },
+    {
+      "name": "Planning And Tracking",
+      "slug": "planning-and-tracking",
+      "snapshots": [],
+      "missing_keywords": [
+        "Dashboard",
+        "Planner",
+        "Tracker",
+        "Recorder",
+        "Optimizer"
+      ],
+      "configured_keywords": 5,
+      "successful_keywords": 0
+    },
+    {
+      "name": "Automation And Monitoring",
+      "slug": "automation-and-monitoring",
+      "snapshots": [],
+      "missing_keywords": [
+        "Scheduler",
+        "Converter",
+        "Viewer",
+        "Extractor",
+        "Monitor",
+        "Notifier",
+        "Verifier",
+        "Simulator",
+        "Assistant",
+        "Constructor"
+      ],
+      "configured_keywords": 10,
+      "successful_keywords": 0
+    },
+    {
+      "name": "Navigation And Response",
+      "slug": "navigation-and-response",
+      "snapshots": [],
+      "missing_keywords": [
+        "Comparator",
+        "Navigator",
+        "Syncer",
+        "Connector",
+        "Cataloger",
+        "Responder"
+      ],
+      "configured_keywords": 6,
+      "successful_keywords": 0
+    }
+  ],
+  "high_rising_trends": [
+    {
+      "keyword": "Processor",
+      "query": "amd ryzen 7 9850x3d processor 4.7 ghz 96 mb l3 tray",
+      "value": 15950
+    },
+    {
+      "keyword": "Processor",
+      "query": "alienware aurora gaming desktop act1250 intel core ultra 9 285 processor",
+      "value": 7900
+    },
+    {
+      "keyword": "Processor",
+      "query": "intel core i5-14400f lga 1700 processor bx8071514400f",
+      "value": 6600
+    },
+    {
+      "keyword": "Processor",
+      "query": "intel core i5-14600kf processor 24 mb",
+      "value": 3300
+    }
+  ],
+  "summary": {
+    "configured_keywords": 51,
+    "successful_keywords": 1,
+    "failed_keywords": 50,
+    "high_rising_count": 4
+  },
+  "files": {
+    "csv": "data/20261118/daily_report_20261118.csv",
+    "json": "data/20261118/snapshot.json",
+    "history": "data/history.json",
+    "assets": [
+      "data/20261118/daily_report_20261118.csv",
+      "data/20261118/related_queries_Processor_20261118_004719.json"
+    ]
+  }
+}
