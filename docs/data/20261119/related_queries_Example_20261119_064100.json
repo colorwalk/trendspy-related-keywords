@@ -1,0 +1,78 @@
+{
+  "keyword": "Example",
+  "timestamp": "2026-11-19 06:41:00",
+  "related_queries": {
+    "top": [
+      {
+        "query": "for example",
+        "value": 100
+      },
+      {
+        "query": "resume example",
+        "value": 4
+      },
+      {
+        "query": "computer",
+        "value": 3
+      },
+      {
+        "query": "address example",
+        "value": 3
+      },
+      {
+        "query": "example synonym",
+        "value": 3
+      },
+      {
+        "query": "cv example",
+        "value": 2
+      },
+      {
+        "query": "example cover letter",
+        "value": 2
+      },
+      {
+        "query": "thesis example",
+        "value": 1
+      },
+      {
+        "query": "for example synonym",
+        "value": 1
+      },
+      {
+        "query": "another word for example",
+        "value": 1
+      },
+      {
+        "query": "dance",
+        "value": 1
+      },
+      {
+        "query": "metaphor",
+        "value": 1
+      },
+      {
+        "query": "thesis statement example",
+        "value": 1
+      },
+      {
+        "query": "example of a metaphor",
+        "value": 1
+      },
+      {
+        "query": "slogan example",
+        "value": 0
+      },
+      {
+        "query": "vocal fry example",
+        "value": 0
+      }
+    ],
+    "rising": [
+      {
+        "query": "vocal fry example",
+        "value": 110
+      }
+    ]
+  }
+}
