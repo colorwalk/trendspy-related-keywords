@@ -1,0 +1,1175 @@
+{
+  "date": "20261124",
+  "generated_at": "2026-11-24 10:40:32",
+  "requested_timeframe": "last-3-d",
+  "resolved_timeframe": "2026-11-21 2026-11-24",
+  "region": "Global",
+  "source_directory": "data_20261124",
+  "snapshots": [
+    {
+      "keyword": "Sender",
+      "timestamp": "2026-11-24 10:27:35",
+      "filename": "related_queries_Sender_20261124_102735.json",
+      "top": [
+        {
+          "query": "sender email",
+          "value": 100
+        },
+        {
+          "query": "return to sender",
+          "value": 66
+        },
+        {
+          "query": "nordvpn",
+          "value": 63
+        },
+        {
+          "query": "surfshark",
+          "value": 54
+        },
+        {
+          "query": "sender app",
+          "value": 42
+        },
+        {
+          "query": "vpn",
+          "value": 41
+        },
+        {
+          "query": "sender one",
+          "value": 38
+        },
+        {
+          "query": "nordvpn code",
+          "value": 35
+        },
+        {
+          "query": "hostinger",
+          "value": 34
+        },
+        {
+          "query": "saily",
+          "value": 32
+        },
+        {
+          "query": "vpn surfshark",
+          "value": 31
+        },
+        {
+          "query": "nordvpn free",
+          "value": 30
+        },
+        {
+          "query": "nordvpn discount",
+          "value": 29
+        },
+        {
+          "query": "nordvpn coupon",
+          "value": 26
+        },
+        {
+          "query": "nordpass",
+          "value": 26
+        },
+        {
+          "query": "surfshark free",
+          "value": 25
+        },
+        {
+          "query": "nord vpn",
+          "value": 25
+        },
+        {
+          "query": "surfshark discount",
+          "value": 25
+        },
+        {
+          "query": "surfshark pricing",
+          "value": 25
+        },
+        {
+          "query": "nordvpn promo",
+          "value": 24
+        },
+        {
+          "query": "emergent",
+          "value": 23
+        },
+        {
+          "query": "nordvpn login",
+          "value": 23
+        },
+        {
+          "query": "nordvpn discount code",
+          "value": 22
+        },
+        {
+          "query": "surfshark coupon",
+          "value": 22
+        },
+        {
+          "query": "free vpn",
+          "value": 21
+        }
+      ],
+      "rising": [
+        {
+          "query": "smtp2go",
+          "value": 100
+        },
+        {
+          "query": "eldorádó",
+          "value": 90
+        },
+        {
+          "query": "veo cameras",
+          "value": 90
+        },
+        {
+          "query": "veo.com",
+          "value": 80
+        },
+        {
+          "query": "gameboost.com",
+          "value": 80
+        },
+        {
+          "query": "gameboost",
+          "value": 70
+        },
+        {
+          "query": "esim data",
+          "value": 70
+        },
+        {
+          "query": "nordpass business",
+          "value": 70
+        },
+        {
+          "query": "depositphotos promo code",
+          "value": 60
+        },
+        {
+          "query": "nordpass family",
+          "value": 60
+        },
+        {
+          "query": "lingopie",
+          "value": 60
+        },
+        {
+          "query": "lingopie login",
+          "value": 60
+        },
+        {
+          "query": "lingopie app",
+          "value": 50
+        },
+        {
+          "query": "gta 6 radio sender wechseln",
+          "value": 50
+        },
+        {
+          "query": "veo pricing",
+          "value": 50
+        },
+        {
+          "query": "saily",
+          "value": 40
+        }
+      ]
+    },
+    {
+      "keyword": "Receiver",
+      "timestamp": "2026-11-24 10:27:35",
+      "filename": "related_queries_Receiver_20261124_102735.json",
+      "top": [
+        {
+          "query": "wide receiver",
+          "value": 100
+        },
+        {
+          "query": "bluetooth receiver",
+          "value": 55
+        },
+        {
+          "query": "wireless receiver",
+          "value": 53
+        },
+        {
+          "query": "tv receiver",
+          "value": 43
+        },
+        {
+          "query": "av receiver",
+          "value": 43
+        },
+        {
+          "query": "audio receiver",
+          "value": 37
+        },
+        {
+          "query": "hitch receiver",
+          "value": 34
+        },
+        {
+          "query": "denon",
+          "value": 31
+        },
+        {
+          "query": "receiver denon",
+          "value": 31
+        },
+        {
+          "query": "yamaha receiver",
+          "value": 29
+        },
+        {
+          "query": "yamaha",
+          "value": 29
+        },
+        {
+          "query": "stereo receiver",
+          "value": 28
+        },
+        {
+          "query": "usb receiver",
+          "value": 27
+        },
+        {
+          "query": "transmitter and receiver",
+          "value": 26
+        },
+        {
+          "query": "lower receiver",
+          "value": 26
+        },
+        {
+          "query": "upper receiver",
+          "value": 26
+        },
+        {
+          "query": "hdmi receiver",
+          "value": 22
+        },
+        {
+          "query": "radio receiver",
+          "value": 20
+        },
+        {
+          "query": "sony receiver",
+          "value": 20
+        },
+        {
+          "query": "wide receiver nfl",
+          "value": 18
+        },
+        {
+          "query": "logitech receiver",
+          "value": 18
+        },
+        {
+          "query": "logitech",
+          "value": 18
+        },
+        {
+          "query": "onkyo receiver",
+          "value": 16
+        },
+        {
+          "query": "onkyo",
+          "value": 16
+        },
+        {
+          "query": "pioneer",
+          "value": 16
+        }
+      ],
+      "rising": [
+        {
+          "query": "jeremiah smith wide receiver prospect",
+          "value": 9650
+        },
+        {
+          "query": "jai jones receiver decommits wisconsin",
+          "value": 3850
+        },
+        {
+          "query": "commanders slot receiver",
+          "value": 600
+        },
+        {
+          "query": "brandon aiyuk",
+          "value": 600
+        },
+        {
+          "query": "nfl wide receiver beckham jr",
+          "value": 550
+        },
+        {
+          "query": "chase brown stats",
+          "value": 450
+        },
+        {
+          "query": "denon avr-x1800h",
+          "value": 350
+        },
+        {
+          "query": "george kittle",
+          "value": 250
+        },
+        {
+          "query": "dk metcalf",
+          "value": 250
+        },
+        {
+          "query": "heisman odds",
+          "value": 250
+        },
+        {
+          "query": "jeremiah smith",
+          "value": 190
+        },
+        {
+          "query": "patriots receiver aj brown status",
+          "value": 190
+        },
+        {
+          "query": "oregon state football",
+          "value": 180
+        },
+        {
+          "query": "jeremiah smith stats",
+          "value": 150
+        },
+        {
+          "query": "mike evans",
+          "value": 150
+        },
+        {
+          "query": "midwayusa",
+          "value": 150
+        },
+        {
+          "query": "jerry rice",
+          "value": 140
+        },
+        {
+          "query": "christian mccaffrey",
+          "value": 100
+        }
+      ]
+    },
+    {
+      "keyword": "Interpreter",
+      "timestamp": "2026-11-24 10:27:35",
+      "filename": "related_queries_Interpreter_20261124_102735.json",
+      "top": [
+        {
+          "query": "the interpreter",
+          "value": 100
+        },
+        {
+          "query": "language interpreter",
+          "value": 51
+        },
+        {
+          "query": "interpreter python",
+          "value": 50
+        },
+        {
+          "query": "python",
+          "value": 50
+        },
+        {
+          "query": "what is interpreter",
+          "value": 39
+        },
+        {
+          "query": "medical interpreter",
+          "value": 32
+        },
+        {
+          "query": "interpreter jobs",
+          "value": 30
+        },
+        {
+          "query": "online interpreter",
+          "value": 22
+        },
+        {
+          "query": "what is a interpreter",
+          "value": 22
+        },
+        {
+          "query": "asl interpreter",
+          "value": 21
+        },
+        {
+          "query": "compiler",
+          "value": 21
+        },
+        {
+          "query": "sign language",
+          "value": 20
+        },
+        {
+          "query": "sign language interpreter",
+          "value": 20
+        },
+        {
+          "query": "code interpreter",
+          "value": 18
+        },
+        {
+          "query": "spanish interpreter",
+          "value": 18
+        },
+        {
+          "query": "court interpreter",
+          "value": 18
+        },
+        {
+          "query": "interpreter services",
+          "value": 17
+        },
+        {
+          "query": "what is an interpreter",
+          "value": 16
+        },
+        {
+          "query": "ai interpreter",
+          "value": 15
+        },
+        {
+          "query": "my interpreter",
+          "value": 15
+        },
+        {
+          "query": "interpreter meaning",
+          "value": 14
+        },
+        {
+          "query": "python interpreter online",
+          "value": 12
+        },
+        {
+          "query": "open interpreter",
+          "value": 12
+        },
+        {
+          "query": "online python",
+          "value": 12
+        },
+        {
+          "query": "compiler and interpreter",
+          "value": 9
+        }
+      ],
+      "rising": [
+        {
+          "query": "abg interpreter",
+          "value": 8200
+        },
+        {
+          "query": "wap sign language interpreter",
+          "value": 550
+        },
+        {
+          "query": "interpreter meaning in tamil",
+          "value": 500
+        },
+        {
+          "query": "apa itu interpreter",
+          "value": 300
+        },
+        {
+          "query": "interpreter แปล ว่า",
+          "value": 250
+        },
+        {
+          "query": "interpreter en anglais",
+          "value": 190
+        },
+        {
+          "query": "interpreter ne demek",
+          "value": 180
+        },
+        {
+          "query": "interpreter artinya",
+          "value": 180
+        },
+        {
+          "query": "openrouter",
+          "value": 170
+        },
+        {
+          "query": "interpreter movie",
+          "value": 80
+        }
+      ]
+    }
+  ],
+  "grouped_snapshots": [
+    {
+      "name": "Translation And Creation",
+      "slug": "translation-and-creation",
+      "snapshots": [],
+      "missing_keywords": [
+        "Translator",
+        "Generator",
+        "Example",
+        "Convert",
+        "Online",
+        "Downloader",
+        "Maker",
+        "Creator",
+        "Editor",
+        "Processor"
+      ],
+      "configured_keywords": 10,
+      "successful_keywords": 0
+    },
+    {
+      "name": "Design And Delivery",
+      "slug": "design-and-delivery",
+      "snapshots": [
+        {
+          "keyword": "Sender",
+          "timestamp": "2026-11-24 10:27:35",
+          "filename": "related_queries_Sender_20261124_102735.json",
+          "top": [
+            {
+              "query": "sender email",
+              "value": 100
+            },
+            {
+              "query": "return to sender",
+              "value": 66
+            },
+            {
+              "query": "nordvpn",
+              "value": 63
+            },
+            {
+              "query": "surfshark",
+              "value": 54
+            },
+            {
+              "query": "sender app",
+              "value": 42
+            },
+            {
+              "query": "vpn",
+              "value": 41
+            },
+            {
+              "query": "sender one",
+              "value": 38
+            },
+            {
+              "query": "nordvpn code",
+              "value": 35
+            },
+            {
+              "query": "hostinger",
+              "value": 34
+            },
+            {
+              "query": "saily",
+              "value": 32
+            },
+            {
+              "query": "vpn surfshark",
+              "value": 31
+            },
+            {
+              "query": "nordvpn free",
+              "value": 30
+            },
+            {
+              "query": "nordvpn discount",
+              "value": 29
+            },
+            {
+              "query": "nordvpn coupon",
+              "value": 26
+            },
+            {
+              "query": "nordpass",
+              "value": 26
+            },
+            {
+              "query": "surfshark free",
+              "value": 25
+            },
+            {
+              "query": "nord vpn",
+              "value": 25
+            },
+            {
+              "query": "surfshark discount",
+              "value": 25
+            },
+            {
+              "query": "surfshark pricing",
+              "value": 25
+            },
+            {
+              "query": "nordvpn promo",
+              "value": 24
+            },
+            {
+              "query": "emergent",
+              "value": 23
+            },
+            {
+              "query": "nordvpn login",
+              "value": 23
+            },
+            {
+              "query": "nordvpn discount code",
+              "value": 22
+            },
+            {
+              "query": "surfshark coupon",
+              "value": 22
+            },
+            {
+              "query": "free vpn",
+              "value": 21
+            }
+          ],
+          "rising": [
+            {
+              "query": "smtp2go",
+              "value": 100
+            },
+            {
+              "query": "eldorádó",
+              "value": 90
+            },
+            {
+              "query": "veo cameras",
+              "value": 90
+            },
+            {
+              "query": "veo.com",
+              "value": 80
+            },
+            {
+              "query": "gameboost.com",
+              "value": 80
+            },
+            {
+              "query": "gameboost",
+              "value": 70
+            },
+            {
+              "query": "esim data",
+              "value": 70
+            },
+            {
+              "query": "nordpass business",
+              "value": 70
+            },
+            {
+              "query": "depositphotos promo code",
+              "value": 60
+            },
+            {
+              "query": "nordpass family",
+              "value": 60
+            },
+            {
+              "query": "lingopie",
+              "value": 60
+            },
+            {
+              "query": "lingopie login",
+              "value": 60
+            },
+            {
+              "query": "lingopie app",
+              "value": 50
+            },
+            {
+              "query": "gta 6 radio sender wechseln",
+              "value": 50
+            },
+            {
+              "query": "veo pricing",
+              "value": 50
+            },
+            {
+              "query": "saily",
+              "value": 40
+            }
+          ]
+        },
+        {
+          "keyword": "Receiver",
+          "timestamp": "2026-11-24 10:27:35",
+          "filename": "related_queries_Receiver_20261124_102735.json",
+          "top": [
+            {
+              "query": "wide receiver",
+              "value": 100
+            },
+            {
+              "query": "bluetooth receiver",
+              "value": 55
+            },
+            {
+              "query": "wireless receiver",
+              "value": 53
+            },
+            {
+              "query": "tv receiver",
+              "value": 43
+            },
+            {
+              "query": "av receiver",
+              "value": 43
+            },
+            {
+              "query": "audio receiver",
+              "value": 37
+            },
+            {
+              "query": "hitch receiver",
+              "value": 34
+            },
+            {
+              "query": "denon",
+              "value": 31
+            },
+            {
+              "query": "receiver denon",
+              "value": 31
+            },
+            {
+              "query": "yamaha receiver",
+              "value": 29
+            },
+            {
+              "query": "yamaha",
+              "value": 29
+            },
+            {
+              "query": "stereo receiver",
+              "value": 28
+            },
+            {
+              "query": "usb receiver",
+              "value": 27
+            },
+            {
+              "query": "transmitter and receiver",
+              "value": 26
+            },
+            {
+              "query": "lower receiver",
+              "value": 26
+            },
+            {
+              "query": "upper receiver",
+              "value": 26
+            },
+            {
+              "query": "hdmi receiver",
+              "value": 22
+            },
+            {
+              "query": "radio receiver",
+              "value": 20
+            },
+            {
+              "query": "sony receiver",
+              "value": 20
+            },
+            {
+              "query": "wide receiver nfl",
+              "value": 18
+            },
+            {
+              "query": "logitech receiver",
+              "value": 18
+            },
+            {
+              "query": "logitech",
+              "value": 18
+            },
+            {
+              "query": "onkyo receiver",
+              "value": 16
+            },
+            {
+              "query": "onkyo",
+              "value": 16
+            },
+            {
+              "query": "pioneer",
+              "value": 16
+            }
+          ],
+          "rising": [
+            {
+              "query": "jeremiah smith wide receiver prospect",
+              "value": 9650
+            },
+            {
+              "query": "jai jones receiver decommits wisconsin",
+              "value": 3850
+            },
+            {
+              "query": "commanders slot receiver",
+              "value": 600
+            },
+            {
+              "query": "brandon aiyuk",
+              "value": 600
+            },
+            {
+              "query": "nfl wide receiver beckham jr",
+              "value": 550
+            },
+            {
+              "query": "chase brown stats",
+              "value": 450
+            },
+            {
+              "query": "denon avr-x1800h",
+              "value": 350
+            },
+            {
+              "query": "george kittle",
+              "value": 250
+            },
+            {
+              "query": "dk metcalf",
+              "value": 250
+            },
+            {
+              "query": "heisman odds",
+              "value": 250
+            },
+            {
+              "query": "jeremiah smith",
+              "value": 190
+            },
+            {
+              "query": "patriots receiver aj brown status",
+              "value": 190
+            },
+            {
+              "query": "oregon state football",
+              "value": 180
+            },
+            {
+              "query": "jeremiah smith stats",
+              "value": 150
+            },
+            {
+              "query": "mike evans",
+              "value": 150
+            },
+            {
+              "query": "midwayusa",
+              "value": 150
+            },
+            {
+              "query": "jerry rice",
+              "value": 140
+            },
+            {
+              "query": "christian mccaffrey",
+              "value": 100
+            }
+          ]
+        },
+        {
+          "keyword": "Interpreter",
+          "timestamp": "2026-11-24 10:27:35",
+          "filename": "related_queries_Interpreter_20261124_102735.json",
+          "top": [
+            {
+              "query": "the interpreter",
+              "value": 100
+            },
+            {
+              "query": "language interpreter",
+              "value": 51
+            },
+            {
+              "query": "interpreter python",
+              "value": 50
+            },
+            {
+              "query": "python",
+              "value": 50
+            },
+            {
+              "query": "what is interpreter",
+              "value": 39
+            },
+            {
+              "query": "medical interpreter",
+              "value": 32
+            },
+            {
+              "query": "interpreter jobs",
+              "value": 30
+            },
+            {
+              "query": "online interpreter",
+              "value": 22
+            },
+            {
+              "query": "what is a interpreter",
+              "value": 22
+            },
+            {
+              "query": "asl interpreter",
+              "value": 21
+            },
+            {
+              "query": "compiler",
+              "value": 21
+            },
+            {
+              "query": "sign language",
+              "value": 20
+            },
+            {
+              "query": "sign language interpreter",
+              "value": 20
+            },
+            {
+              "query": "code interpreter",
+              "value": 18
+            },
+            {
+              "query": "spanish interpreter",
+              "value": 18
+            },
+            {
+              "query": "court interpreter",
+              "value": 18
+            },
+            {
+              "query": "interpreter services",
+              "value": 17
+            },
+            {
+              "query": "what is an interpreter",
+              "value": 16
+            },
+            {
+              "query": "ai interpreter",
+              "value": 15
+            },
+            {
+              "query": "my interpreter",
+              "value": 15
+            },
+            {
+              "query": "interpreter meaning",
+              "value": 14
+            },
+            {
+              "query": "python interpreter online",
+              "value": 12
+            },
+            {
+              "query": "open interpreter",
+              "value": 12
+            },
+            {
+              "query": "online python",
+              "value": 12
+            },
+            {
+              "query": "compiler and interpreter",
+              "value": 9
+            }
+          ],
+          "rising": [
+            {
+              "query": "abg interpreter",
+              "value": 8200
+            },
+            {
+              "query": "wap sign language interpreter",
+              "value": 550
+            },
+            {
+              "query": "interpreter meaning in tamil",
+              "value": 500
+            },
+            {
+              "query": "apa itu interpreter",
+              "value": 300
+            },
+            {
+              "query": "interpreter แปล ว่า",
+              "value": 250
+            },
+            {
+              "query": "interpreter en anglais",
+              "value": 190
+            },
+            {
+              "query": "interpreter ne demek",
+              "value": 180
+            },
+            {
+              "query": "interpreter artinya",
+              "value": 180
+            },
+            {
+              "query": "openrouter",
+              "value": 170
+            },
+            {
+              "query": "interpreter movie",
+              "value": 80
+            }
+          ]
+        }
+      ],
+      "missing_keywords": [
+        "Designer",
+        "Compiler",
+        "Analyzer",
+        "Evaluator",
+        "Uploader",
+        "Calculator",
+        "Sample"
+      ],
+      "configured_keywords": 10,
+      "successful_keywords": 3
+    },
+    {
+      "name": "Templates And Discovery",
+      "slug": "templates-and-discovery",
+      "snapshots": [],
+      "missing_keywords": [
+        "Template",
+        "Format",
+        "Builder",
+        "Scheme",
+        "Pattern",
+        "Checker",
+        "Detector",
+        "Scraper",
+        "Manager",
+        "Explorer"
+      ],
+      "configured_keywords": 10,
+      "successful_keywords": 0
+    },
+    {
+      "name": "Planning And Tracking",
+      "slug": "planning-and-tracking",
+      "snapshots": [],
+      "missing_keywords": [
+        "Dashboard",
+        "Planner",
+        "Tracker",
+        "Recorder",
+        "Optimizer"
+      ],
+      "configured_keywords": 5,
+      "successful_keywords": 0
+    },
+    {
+      "name": "Automation And Monitoring",
+      "slug": "automation-and-monitoring",
+      "snapshots": [],
+      "missing_keywords": [
+        "Scheduler",
+        "Converter",
+        "Viewer",
+        "Extractor",
+        "Monitor",
+        "Notifier",
+        "Verifier",
+        "Simulator",
+        "Assistant",
+        "Constructor"
+      ],
+      "configured_keywords": 10,
+      "successful_keywords": 0
+    },
+    {
+      "name": "Navigation And Response",
+      "slug": "navigation-and-response",
+      "snapshots": [],
+      "missing_keywords": [
+        "Comparator",
+        "Navigator",
+        "Syncer",
+        "Connector",
+        "Cataloger",
+        "Responder"
+      ],
+      "configured_keywords": 6,
+      "successful_keywords": 0
+    }
+  ],
+  "high_rising_trends": [
+    {
+      "keyword": "Receiver",
+      "query": "jeremiah smith wide receiver prospect",
+      "value": 9650
+    },
+    {
+      "keyword": "Receiver",
+      "query": "jai jones receiver decommits wisconsin",
+      "value": 3850
+    },
+    {
+      "keyword": "Receiver",
+      "query": "commanders slot receiver",
+      "value": 600
+    },
+    {
+      "keyword": "Receiver",
+      "query": "brandon aiyuk",
+      "value": 600
+    },
+    {
+      "keyword": "Receiver",
+      "query": "nfl wide receiver beckham jr",
+      "value": 550
+    },
+    {
+      "keyword": "Interpreter",
+      "query": "abg interpreter",
+      "value": 8200
+    },
+    {
+      "keyword": "Interpreter",
+      "query": "wap sign language interpreter",
+      "value": 550
+    }
+  ],
+  "summary": {
+    "configured_keywords": 51,
+    "successful_keywords": 3,
+    "failed_keywords": 48,
+    "high_rising_count": 7
+  },
+  "files": {
+    "csv": "data/20261124/daily_report_20261124.csv",
+    "json": "data/20261124/snapshot.json",
+    "history": "data/history.json",
+    "assets": [
+      "data/20261124/daily_report_20261124.csv",
+      "data/20261124/related_queries_Interpreter_20261124_102735.json",
+      "data/20261124/related_queries_Receiver_20261124_102735.json",
+      "data/20261124/related_queries_Sender_20261124_102735.json"
+    ]
+  }
+}
