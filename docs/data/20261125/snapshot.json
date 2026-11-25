@@ -1,0 +1,2393 @@
+{
+  "date": "20261125",
+  "generated_at": "2026-11-25 08:19:16",
+  "requested_timeframe": "last-3-d",
+  "resolved_timeframe": "2026-11-22 2026-11-25",
+  "region": "Global",
+  "source_directory": "data_20261125",
+  "snapshots": [
+    {
+      "keyword": "Translator",
+      "timestamp": "2026-11-25 07:58:04",
+      "filename": "related_queries_Translator_20261125_075804.json",
+      "top": [
+        {
+          "query": "translator english",
+          "value": 100
+        },
+        {
+          "query": "translator english to",
+          "value": 78
+        },
+        {
+          "query": "translator google",
+          "value": 67
+        },
+        {
+          "query": "tagalog translator",
+          "value": 23
+        },
+        {
+          "query": "spanish",
+          "value": 20
+        },
+        {
+          "query": "spanish translator",
+          "value": 20
+        },
+        {
+          "query": "tagalog english translator",
+          "value": 20
+        },
+        {
+          "query": "language translator",
+          "value": 19
+        },
+        {
+          "query": "tagalog to english",
+          "value": 16
+        },
+        {
+          "query": "tagalog to english translator",
+          "value": 16
+        },
+        {
+          "query": "deepl",
+          "value": 14
+        },
+        {
+          "query": "deepl translator",
+          "value": 14
+        },
+        {
+          "query": "english spanish translator",
+          "value": 11
+        },
+        {
+          "query": "hindi translator",
+          "value": 10
+        },
+        {
+          "query": "morse code",
+          "value": 10
+        },
+        {
+          "query": "morse code translator",
+          "value": 10
+        },
+        {
+          "query": "morse translator",
+          "value": 10
+        },
+        {
+          "query": "ai translator",
+          "value": 9
+        },
+        {
+          "query": "translator english to spanish",
+          "value": 9
+        },
+        {
+          "query": "spanish to english",
+          "value": 9
+        },
+        {
+          "query": "online translator",
+          "value": 9
+        },
+        {
+          "query": "chinese translator",
+          "value": 7
+        },
+        {
+          "query": "hindi english translator",
+          "value": 7
+        },
+        {
+          "query": "english to hindi translator",
+          "value": 7
+        },
+        {
+          "query": "best translator",
+          "value": 7
+        }
+      ],
+      "rising": [
+        {
+          "query": "vi translator",
+          "value": 100
+        },
+        {
+          "query": "translator norwesko polski",
+          "value": 50
+        }
+      ]
+    },
+    {
+      "keyword": "Generator",
+      "timestamp": "2026-11-25 07:58:04",
+      "filename": "related_queries_Generator_20261125_075804.json",
+      "top": [
+        {
+          "query": "ai generator",
+          "value": 100
+        },
+        {
+          "query": "video generator",
+          "value": 43
+        },
+        {
+          "query": "random generator",
+          "value": 36
+        },
+        {
+          "query": "ai video generator",
+          "value": 35
+        },
+        {
+          "query": "ai video",
+          "value": 35
+        },
+        {
+          "query": "image generator",
+          "value": 30
+        },
+        {
+          "query": "number generator",
+          "value": 28
+        },
+        {
+          "query": "qr generator",
+          "value": 28
+        },
+        {
+          "query": "name generator",
+          "value": 27
+        },
+        {
+          "query": "font generator",
+          "value": 27
+        },
+        {
+          "query": "font",
+          "value": 26
+        },
+        {
+          "query": "qr code generator",
+          "value": 25
+        },
+        {
+          "query": "qr code",
+          "value": 25
+        },
+        {
+          "query": "ai image generator",
+          "value": 22
+        },
+        {
+          "query": "random number generator",
+          "value": 18
+        },
+        {
+          "query": "ai free video generator",
+          "value": 18
+        },
+        {
+          "query": "text generator",
+          "value": 17
+        },
+        {
+          "query": "citation generator",
+          "value": 15
+        },
+        {
+          "query": "barcode generator",
+          "value": 15
+        },
+        {
+          "query": "password generator",
+          "value": 13
+        },
+        {
+          "query": "apa generator",
+          "value": 10
+        },
+        {
+          "query": "solar generator",
+          "value": 10
+        },
+        {
+          "query": "free image generator",
+          "value": 9
+        },
+        {
+          "query": "meme generator",
+          "value": 8
+        },
+        {
+          "query": "ai image generator free",
+          "value": 7
+        }
+      ],
+      "rising": [
+        {
+          "query": "warp generator",
+          "value": 40
+        }
+      ]
+    },
+    {
+      "keyword": "Example",
+      "timestamp": "2026-11-25 07:58:04",
+      "filename": "related_queries_Example_20261125_075804.json",
+      "top": [
+        {
+          "query": "for example",
+          "value": 100
+        },
+        {
+          "query": "definition",
+          "value": 7
+        },
+        {
+          "query": "resume example",
+          "value": 4
+        },
+        {
+          "query": "computer",
+          "value": 3
+        },
+        {
+          "query": "python",
+          "value": 3
+        },
+        {
+          "query": "example synonym",
+          "value": 3
+        },
+        {
+          "query": "cv example",
+          "value": 2
+        },
+        {
+          "query": "cover letter example",
+          "value": 2
+        },
+        {
+          "query": "paragraph example",
+          "value": 2
+        },
+        {
+          "query": "java",
+          "value": 2
+        },
+        {
+          "query": "synonym for example",
+          "value": 1
+        },
+        {
+          "query": "lead by example",
+          "value": 1
+        },
+        {
+          "query": "dance",
+          "value": 1
+        },
+        {
+          "query": "outline example",
+          "value": 1
+        },
+        {
+          "query": "apa format example",
+          "value": 1
+        },
+        {
+          "query": "infographic example",
+          "value": 1
+        },
+        {
+          "query": "apa paper example",
+          "value": 0
+        },
+        {
+          "query": "resignation letter example",
+          "value": 0
+        },
+        {
+          "query": "example of a cover letter",
+          "value": 0
+        },
+        {
+          "query": "xxnn xenophobia meaning in hindi dictionary with example video",
+          "value": 0
+        },
+        {
+          "query": "zoo",
+          "value": 0
+        },
+        {
+          "query": "table of contents example",
+          "value": 0
+        },
+        {
+          "query": "سیکسی meaning in english with example به فارسی",
+          "value": 0
+        },
+        {
+          "query": "narrative report example",
+          "value": 0
+        },
+        {
+          "query": "xxnn xenophobia meaning in hindi dictionary with example video youtube",
+          "value": 0
+        }
+      ],
+      "rising": []
+    },
+    {
+      "keyword": "Online",
+      "timestamp": "2026-11-25 07:58:04",
+      "filename": "related_queries_Online_20261125_075804.json",
+      "top": [
+        {
+          "query": "online casino",
+          "value": 100
+        },
+        {
+          "query": "online games",
+          "value": 10
+        },
+        {
+          "query": "gta 6 online",
+          "value": 10
+        },
+        {
+          "query": "online casino 🇪🇸 www.casinobimo.blog",
+          "value": 9
+        },
+        {
+          "query": "casino 🇪🇸 www.casinobimo.blog",
+          "value": 9
+        },
+        {
+          "query": "casino online 🇮🇹 2026 www.casinobimo.blog",
+          "value": 8
+        },
+        {
+          "query": "game online",
+          "value": 8
+        },
+        {
+          "query": "online casino 🇩🇪 charlescasinos.sbs",
+          "value": 7
+        },
+        {
+          "query": "casinos online 🇪🇸 www.casinoganino.blog",
+          "value": 7
+        },
+        {
+          "query": "online casino 🇳🇱 2026 www.casinobimo.blog",
+          "value": 7
+        },
+        {
+          "query": "online casino 🇬🇧 2026 www.casinobimo.blog",
+          "value": 5
+        },
+        {
+          "query": "casino 🇬🇧 www.casinoganino.blog",
+          "value": 5
+        },
+        {
+          "query": "online casino 🇩🇪 casinod.cv",
+          "value": 5
+        },
+        {
+          "query": "casino online österreich 🇦🇹 atboni.sbs 🇦🇹",
+          "value": 5
+        },
+        {
+          "query": "online casinos 🇦🇺 www.casinoganino.blog",
+          "value": 4
+        },
+        {
+          "query": "online casinos 🇬🇧 2026 www.casinobimo.blog",
+          "value": 4
+        },
+        {
+          "query": "online casinos 🇬🇧 www.casinoganino.blog",
+          "value": 4
+        },
+        {
+          "query": "online casino 🇳🇱 jeroencasino.one",
+          "value": 4
+        },
+        {
+          "query": "word online",
+          "value": 4
+        },
+        {
+          "query": "casinos online 🇧🇪 www.casinoganino.blog",
+          "value": 4
+        },
+        {
+          "query": "casino 🇩🇪 stefancasino.one",
+          "value": 3
+        },
+        {
+          "query": "online casino 🇩🇪 stefancasino.one",
+          "value": 3
+        },
+        {
+          "query": "casino online non aams 🇮🇹 www.casinoganino.blog",
+          "value": 3
+        },
+        {
+          "query": "beste online casino 🇩🇪 www.casinoganino.blog",
+          "value": 3
+        },
+        {
+          "query": "neue online casino 🇩🇪 www.casinoganino.blog",
+          "value": 2
+        }
+      ],
+      "rising": [
+        {
+          "query": "online casino 🇩🇪 charlescasinos.sbs",
+          "value": 147650
+        },
+        {
+          "query": "casinos online 🇪🇸 www.casinoganino.blog",
+          "value": 135050
+        },
+        {
+          "query": "casino 🇬🇧 www.casinoganino.blog",
+          "value": 93450
+        },
+        {
+          "query": "online casino 🇩🇪 casinod.cv",
+          "value": 92500
+        },
+        {
+          "query": "casino online österreich 🇦🇹 atboni.sbs 🇦🇹",
+          "value": 92250
+        },
+        {
+          "query": "online casinos 🇦🇺 www.casinoganino.blog",
+          "value": 86100
+        },
+        {
+          "query": "online casinos 🇬🇧 www.casinoganino.blog",
+          "value": 80250
+        },
+        {
+          "query": "online casino 🇳🇱 jeroencasino.one",
+          "value": 75650
+        },
+        {
+          "query": "casinos online 🇧🇪 www.casinoganino.blog",
+          "value": 73450
+        },
+        {
+          "query": "casino 🇩🇪 stefancasino.one",
+          "value": 68900
+        },
+        {
+          "query": "casino online non aams 🇮🇹 www.casinoganino.blog",
+          "value": 67550
+        },
+        {
+          "query": "online casino 🇩🇪 stefancasino.one",
+          "value": 67050
+        },
+        {
+          "query": "beste online casino 🇩🇪 www.casinoganino.blog",
+          "value": 58650
+        },
+        {
+          "query": "neue online casino 🇩🇪 www.casinoganino.blog",
+          "value": 41800
+        },
+        {
+          "query": "casa de apuestas 🇪🇸 www.casinoganino.blog",
+          "value": 38200
+        },
+        {
+          "query": "best online casinos 🇦🇺 www.casinoganino.blog",
+          "value": 37100
+        },
+        {
+          "query": "online casino 🇪🇸 www.casinobimo.blog",
+          "value": 80
+        },
+        {
+          "query": "casino 🇪🇸 www.casinobimo.blog",
+          "value": 80
+        },
+        {
+          "query": "online casinos 🇬🇧 2026 www.casinobimo.blog",
+          "value": 70
+        },
+        {
+          "query": "online casino 🇬🇧 2026 www.casinobimo.blog",
+          "value": 70
+        },
+        {
+          "query": "online casino 🇳🇱 2026 www.casinobimo.blog",
+          "value": 60
+        },
+        {
+          "query": "casino online 🇮🇹 2026 www.casinobimo.blog",
+          "value": 50
+        }
+      ]
+    },
+    {
+      "keyword": "Maker",
+      "timestamp": "2026-11-25 07:58:04",
+      "filename": "related_queries_Maker_20261125_075804.json",
+      "top": [
+        {
+          "query": "coffee maker",
+          "value": 100
+        },
+        {
+          "query": "best coffee maker",
+          "value": 47
+        },
+        {
+          "query": "the maker",
+          "value": 45
+        },
+        {
+          "query": "ice maker",
+          "value": 45
+        },
+        {
+          "query": "video maker",
+          "value": 26
+        },
+        {
+          "query": "ninja",
+          "value": 17
+        },
+        {
+          "query": "website maker",
+          "value": 15
+        },
+        {
+          "query": "ice cream maker",
+          "value": 14
+        },
+        {
+          "query": "instagram video download without water maker",
+          "value": 12
+        },
+        {
+          "query": "instagram video download",
+          "value": 11
+        },
+        {
+          "query": "game maker",
+          "value": 11
+        },
+        {
+          "query": "maker world",
+          "value": 10
+        },
+        {
+          "query": "bread maker",
+          "value": 10
+        },
+        {
+          "query": "waffle maker",
+          "value": 10
+        },
+        {
+          "query": "pdf maker",
+          "value": 7
+        },
+        {
+          "query": "pizza maker",
+          "value": 7
+        },
+        {
+          "query": "cricut",
+          "value": 7
+        },
+        {
+          "query": "cricut maker",
+          "value": 7
+        },
+        {
+          "query": "espresso maker",
+          "value": 7
+        },
+        {
+          "query": "logo maker",
+          "value": 6
+        },
+        {
+          "query": "keurig coffee maker",
+          "value": 6
+        },
+        {
+          "query": "ninja coffee maker",
+          "value": 6
+        },
+        {
+          "query": "gif maker",
+          "value": 6
+        },
+        {
+          "query": "music maker",
+          "value": 6
+        },
+        {
+          "query": "gif",
+          "value": 6
+        }
+      ],
+      "rising": [
+        {
+          "query": "activision custom gaming cake maker",
+          "value": 24750
+        },
+        {
+          "query": "my eight year old fortune maker",
+          "value": 350
+        },
+        {
+          "query": "sonic ice maker",
+          "value": 170
+        },
+        {
+          "query": "best office chair",
+          "value": 120
+        },
+        {
+          "query": "best budget phone",
+          "value": 120
+        },
+        {
+          "query": "best travel backpack",
+          "value": 110
+        },
+        {
+          "query": "best laptops",
+          "value": 110
+        },
+        {
+          "query": "best running shoes",
+          "value": 110
+        },
+        {
+          "query": "best pizza recipe",
+          "value": 110
+        },
+        {
+          "query": "best hiking boots",
+          "value": 100
+        },
+        {
+          "query": "best coffee maker",
+          "value": 90
+        },
+        {
+          "query": "website maker",
+          "value": 60
+        },
+        {
+          "query": "pizza maker",
+          "value": 60
+        },
+        {
+          "query": "game maker hunger games",
+          "value": 50
+        }
+      ]
+    },
+    {
+      "keyword": "Editor",
+      "timestamp": "2026-11-25 07:58:04",
+      "filename": "related_queries_Editor_20261125_075804.json",
+      "top": [
+        {
+          "query": "pdf",
+          "value": 100
+        },
+        {
+          "query": "pdf editor",
+          "value": 98
+        },
+        {
+          "query": "online editor",
+          "value": 60
+        },
+        {
+          "query": "video editor",
+          "value": 57
+        },
+        {
+          "query": "ai editor",
+          "value": 42
+        },
+        {
+          "query": "photo editor",
+          "value": 38
+        },
+        {
+          "query": "online pdf editor",
+          "value": 27
+        },
+        {
+          "query": "pdf editor free",
+          "value": 20
+        },
+        {
+          "query": "image editor",
+          "value": 18
+        },
+        {
+          "query": "photo ai editor",
+          "value": 17
+        },
+        {
+          "query": "text editor",
+          "value": 12
+        },
+        {
+          "query": "sejda",
+          "value": 12
+        },
+        {
+          "query": "sejda pdf",
+          "value": 12
+        },
+        {
+          "query": "vikas editor",
+          "value": 11
+        },
+        {
+          "query": "sejda editor",
+          "value": 11
+        },
+        {
+          "query": "pdf editor sejda",
+          "value": 11
+        },
+        {
+          "query": "save editor",
+          "value": 11
+        },
+        {
+          "query": "free pdf editor online",
+          "value": 10
+        },
+        {
+          "query": "video editor free",
+          "value": 10
+        },
+        {
+          "query": "free video editor",
+          "value": 10
+        },
+        {
+          "query": "video editor ai",
+          "value": 9
+        },
+        {
+          "query": "word editor",
+          "value": 9
+        },
+        {
+          "query": "code editor",
+          "value": 8
+        },
+        {
+          "query": "photo editor free",
+          "value": 8
+        },
+        {
+          "query": "ai image editor",
+          "value": 8
+        }
+      ],
+      "rising": [
+        {
+          "query": "แทง บอล ออนไลน์ editor pgstar777 cfd",
+          "value": 81700
+        },
+        {
+          "query": "บา คา ร่า ออนไลน์ editor pgstar777 cfd",
+          "value": 77200
+        },
+        {
+          "query": "คา สิ โน ออนไลน์ editor pgstar777 cfd",
+          "value": 77100
+        },
+        {
+          "query": "royalin.watch",
+          "value": 21900
+        },
+        {
+          "query": "megaaa.casa",
+          "value": 18350
+        },
+        {
+          "query": "lemonet.casa",
+          "value": 17200
+        },
+        {
+          "query": "casino ohne oasis sperre 🇩🇪 www.casinoganino.blog",
+          "value": 17150
+        },
+        {
+          "query": "kangton.lol",
+          "value": 16650
+        },
+        {
+          "query": "casino ohne oasis sperre 🇩🇪 casinobino.online",
+          "value": 16650
+        },
+        {
+          "query": "ufoo.life",
+          "value": 16450
+        },
+        {
+          "query": "rkss.yachts",
+          "value": 13800
+        },
+        {
+          "query": "pandat.sbs",
+          "value": 10950
+        },
+        {
+          "query": "mamii.cyou",
+          "value": 10600
+        },
+        {
+          "query": "betons.life",
+          "value": 10050
+        },
+        {
+          "query": "slotion.network",
+          "value": 8450
+        },
+        {
+          "query": "alexison.wiki",
+          "value": 8150
+        },
+        {
+          "query": "angkasaa.bond",
+          "value": 7300
+        },
+        {
+          "query": "dewix.sbs",
+          "value": 5900
+        },
+        {
+          "query": "paluuh.lol",
+          "value": 4400
+        },
+        {
+          "query": "badakit.fit",
+          "value": 3700
+        }
+      ]
+    },
+    {
+      "keyword": "Evaluator",
+      "timestamp": "2026-11-25 08:05:39",
+      "filename": "related_queries_Evaluator_20261125_080539.json",
+      "top": [
+        {
+          "query": "trade evaluator",
+          "value": 100
+        },
+        {
+          "query": "fantasy trade evaluator",
+          "value": 65
+        },
+        {
+          "query": "ai evaluator jobs",
+          "value": 46
+        },
+        {
+          "query": "fantasy football trade evaluator",
+          "value": 43
+        },
+        {
+          "query": "search engine evaluator",
+          "value": 40
+        },
+        {
+          "query": "evaluator meaning",
+          "value": 31
+        },
+        {
+          "query": "home evaluator",
+          "value": 25
+        },
+        {
+          "query": "skill evaluator",
+          "value": 24
+        },
+        {
+          "query": "csp evaluator",
+          "value": 20
+        },
+        {
+          "query": "car evaluator",
+          "value": 16
+        },
+        {
+          "query": "rws",
+          "value": 15
+        },
+        {
+          "query": "evaluator crossword",
+          "value": 15
+        },
+        {
+          "query": "website evaluator",
+          "value": 14
+        },
+        {
+          "query": "property evaluator",
+          "value": 14
+        },
+        {
+          "query": "search engine evaluator jobs",
+          "value": 14
+        },
+        {
+          "query": "evaluator crossword clue",
+          "value": 14
+        },
+        {
+          "query": "custody evaluator",
+          "value": 13
+        },
+        {
+          "query": "resume evaluator",
+          "value": 11
+        },
+        {
+          "query": "ep evaluator",
+          "value": 9
+        },
+        {
+          "query": "evaluator imobiliar",
+          "value": 9
+        },
+        {
+          "query": "micro1",
+          "value": 8
+        },
+        {
+          "query": "migration evaluator",
+          "value": 8
+        },
+        {
+          "query": "indeed",
+          "value": 6
+        },
+        {
+          "query": "nfl trade evaluator",
+          "value": 5
+        },
+        {
+          "query": "pokemon card evaluator",
+          "value": 5
+        }
+      ],
+      "rising": [
+        {
+          "query": "xpath evaluator",
+          "value": 11650
+        },
+        {
+          "query": "indeed",
+          "value": 180
+        },
+        {
+          "query": "resume evaluator",
+          "value": 160
+        },
+        {
+          "query": "enterprise damage evaluator",
+          "value": 80
+        },
+        {
+          "query": "fairy agent evaluator",
+          "value": 80
+        },
+        {
+          "query": "evaluator imobiliar",
+          "value": 70
+        },
+        {
+          "query": "nfl trade evaluator",
+          "value": 60
+        },
+        {
+          "query": "pokemon card evaluator",
+          "value": 40
+        },
+        {
+          "query": "akc cgc evaluator",
+          "value": 40
+        }
+      ]
+    }
+  ],
+  "grouped_snapshots": [
+    {
+      "name": "Translation And Creation",
+      "slug": "translation-and-creation",
+      "snapshots": [
+        {
+          "keyword": "Translator",
+          "timestamp": "2026-11-25 07:58:04",
+          "filename": "related_queries_Translator_20261125_075804.json",
+          "top": [
+            {
+              "query": "translator english",
+              "value": 100
+            },
+            {
+              "query": "translator english to",
+              "value": 78
+            },
+            {
+              "query": "translator google",
+              "value": 67
+            },
+            {
+              "query": "tagalog translator",
+              "value": 23
+            },
+            {
+              "query": "spanish",
+              "value": 20
+            },
+            {
+              "query": "spanish translator",
+              "value": 20
+            },
+            {
+              "query": "tagalog english translator",
+              "value": 20
+            },
+            {
+              "query": "language translator",
+              "value": 19
+            },
+            {
+              "query": "tagalog to english",
+              "value": 16
+            },
+            {
+              "query": "tagalog to english translator",
+              "value": 16
+            },
+            {
+              "query": "deepl",
+              "value": 14
+            },
+            {
+              "query": "deepl translator",
+              "value": 14
+            },
+            {
+              "query": "english spanish translator",
+              "value": 11
+            },
+            {
+              "query": "hindi translator",
+              "value": 10
+            },
+            {
+              "query": "morse code",
+              "value": 10
+            },
+            {
+              "query": "morse code translator",
+              "value": 10
+            },
+            {
+              "query": "morse translator",
+              "value": 10
+            },
+            {
+              "query": "ai translator",
+              "value": 9
+            },
+            {
+              "query": "translator english to spanish",
+              "value": 9
+            },
+            {
+              "query": "spanish to english",
+              "value": 9
+            },
+            {
+              "query": "online translator",
+              "value": 9
+            },
+            {
+              "query": "chinese translator",
+              "value": 7
+            },
+            {
+              "query": "hindi english translator",
+              "value": 7
+            },
+            {
+              "query": "english to hindi translator",
+              "value": 7
+            },
+            {
+              "query": "best translator",
+              "value": 7
+            }
+          ],
+          "rising": [
+            {
+              "query": "vi translator",
+              "value": 100
+            },
+            {
+              "query": "translator norwesko polski",
+              "value": 50
+            }
+          ]
+        },
+        {
+          "keyword": "Generator",
+          "timestamp": "2026-11-25 07:58:04",
+          "filename": "related_queries_Generator_20261125_075804.json",
+          "top": [
+            {
+              "query": "ai generator",
+              "value": 100
+            },
+            {
+              "query": "video generator",
+              "value": 43
+            },
+            {
+              "query": "random generator",
+              "value": 36
+            },
+            {
+              "query": "ai video generator",
+              "value": 35
+            },
+            {
+              "query": "ai video",
+              "value": 35
+            },
+            {
+              "query": "image generator",
+              "value": 30
+            },
+            {
+              "query": "number generator",
+              "value": 28
+            },
+            {
+              "query": "qr generator",
+              "value": 28
+            },
+            {
+              "query": "name generator",
+              "value": 27
+            },
+            {
+              "query": "font generator",
+              "value": 27
+            },
+            {
+              "query": "font",
+              "value": 26
+            },
+            {
+              "query": "qr code generator",
+              "value": 25
+            },
+            {
+              "query": "qr code",
+              "value": 25
+            },
+            {
+              "query": "ai image generator",
+              "value": 22
+            },
+            {
+              "query": "random number generator",
+              "value": 18
+            },
+            {
+              "query": "ai free video generator",
+              "value": 18
+            },
+            {
+              "query": "text generator",
+              "value": 17
+            },
+            {
+              "query": "citation generator",
+              "value": 15
+            },
+            {
+              "query": "barcode generator",
+              "value": 15
+            },
+            {
+              "query": "password generator",
+              "value": 13
+            },
+            {
+              "query": "apa generator",
+              "value": 10
+            },
+            {
+              "query": "solar generator",
+              "value": 10
+            },
+            {
+              "query": "free image generator",
+              "value": 9
+            },
+            {
+              "query": "meme generator",
+              "value": 8
+            },
+            {
+              "query": "ai image generator free",
+              "value": 7
+            }
+          ],
+          "rising": [
+            {
+              "query": "warp generator",
+              "value": 40
+            }
+          ]
+        },
+        {
+          "keyword": "Example",
+          "timestamp": "2026-11-25 07:58:04",
+          "filename": "related_queries_Example_20261125_075804.json",
+          "top": [
+            {
+              "query": "for example",
+              "value": 100
+            },
+            {
+              "query": "definition",
+              "value": 7
+            },
+            {
+              "query": "resume example",
+              "value": 4
+            },
+            {
+              "query": "computer",
+              "value": 3
+            },
+            {
+              "query": "python",
+              "value": 3
+            },
+            {
+              "query": "example synonym",
+              "value": 3
+            },
+            {
+              "query": "cv example",
+              "value": 2
+            },
+            {
+              "query": "cover letter example",
+              "value": 2
+            },
+            {
+              "query": "paragraph example",
+              "value": 2
+            },
+            {
+              "query": "java",
+              "value": 2
+            },
+            {
+              "query": "synonym for example",
+              "value": 1
+            },
+            {
+              "query": "lead by example",
+              "value": 1
+            },
+            {
+              "query": "dance",
+              "value": 1
+            },
+            {
+              "query": "outline example",
+              "value": 1
+            },
+            {
+              "query": "apa format example",
+              "value": 1
+            },
+            {
+              "query": "infographic example",
+              "value": 1
+            },
+            {
+              "query": "apa paper example",
+              "value": 0
+            },
+            {
+              "query": "resignation letter example",
+              "value": 0
+            },
+            {
+              "query": "example of a cover letter",
+              "value": 0
+            },
+            {
+              "query": "xxnn xenophobia meaning in hindi dictionary with example video",
+              "value": 0
+            },
+            {
+              "query": "zoo",
+              "value": 0
+            },
+            {
+              "query": "table of contents example",
+              "value": 0
+            },
+            {
+              "query": "سیکسی meaning in english with example به فارسی",
+              "value": 0
+            },
+            {
+              "query": "narrative report example",
+              "value": 0
+            },
+            {
+              "query": "xxnn xenophobia meaning in hindi dictionary with example video youtube",
+              "value": 0
+            }
+          ],
+          "rising": []
+        },
+        {
+          "keyword": "Online",
+          "timestamp": "2026-11-25 07:58:04",
+          "filename": "related_queries_Online_20261125_075804.json",
+          "top": [
+            {
+              "query": "online casino",
+              "value": 100
+            },
+            {
+              "query": "online games",
+              "value": 10
+            },
+            {
+              "query": "gta 6 online",
+              "value": 10
+            },
+            {
+              "query": "online casino 🇪🇸 www.casinobimo.blog",
+              "value": 9
+            },
+            {
+              "query": "casino 🇪🇸 www.casinobimo.blog",
+              "value": 9
+            },
+            {
+              "query": "casino online 🇮🇹 2026 www.casinobimo.blog",
+              "value": 8
+            },
+            {
+              "query": "game online",
+              "value": 8
+            },
+            {
+              "query": "online casino 🇩🇪 charlescasinos.sbs",
+              "value": 7
+            },
+            {
+              "query": "casinos online 🇪🇸 www.casinoganino.blog",
+              "value": 7
+            },
+            {
+              "query": "online casino 🇳🇱 2026 www.casinobimo.blog",
+              "value": 7
+            },
+            {
+              "query": "online casino 🇬🇧 2026 www.casinobimo.blog",
+              "value": 5
+            },
+            {
+              "query": "casino 🇬🇧 www.casinoganino.blog",
+              "value": 5
+            },
+            {
+              "query": "online casino 🇩🇪 casinod.cv",
+              "value": 5
+            },
+            {
+              "query": "casino online österreich 🇦🇹 atboni.sbs 🇦🇹",
+              "value": 5
+            },
+            {
+              "query": "online casinos 🇦🇺 www.casinoganino.blog",
+              "value": 4
+            },
+            {
+              "query": "online casinos 🇬🇧 2026 www.casinobimo.blog",
+              "value": 4
+            },
+            {
+              "query": "online casinos 🇬🇧 www.casinoganino.blog",
+              "value": 4
+            },
+            {
+              "query": "online casino 🇳🇱 jeroencasino.one",
+              "value": 4
+            },
+            {
+              "query": "word online",
+              "value": 4
+            },
+            {
+              "query": "casinos online 🇧🇪 www.casinoganino.blog",
+              "value": 4
+            },
+            {
+              "query": "casino 🇩🇪 stefancasino.one",
+              "value": 3
+            },
+            {
+              "query": "online casino 🇩🇪 stefancasino.one",
+              "value": 3
+            },
+            {
+              "query": "casino online non aams 🇮🇹 www.casinoganino.blog",
+              "value": 3
+            },
+            {
+              "query": "beste online casino 🇩🇪 www.casinoganino.blog",
+              "value": 3
+            },
+            {
+              "query": "neue online casino 🇩🇪 www.casinoganino.blog",
+              "value": 2
+            }
+          ],
+          "rising": [
+            {
+              "query": "online casino 🇩🇪 charlescasinos.sbs",
+              "value": 147650
+            },
+            {
+              "query": "casinos online 🇪🇸 www.casinoganino.blog",
+              "value": 135050
+            },
+            {
+              "query": "casino 🇬🇧 www.casinoganino.blog",
+              "value": 93450
+            },
+            {
+              "query": "online casino 🇩🇪 casinod.cv",
+              "value": 92500
+            },
+            {
+              "query": "casino online österreich 🇦🇹 atboni.sbs 🇦🇹",
+              "value": 92250
+            },
+            {
+              "query": "online casinos 🇦🇺 www.casinoganino.blog",
+              "value": 86100
+            },
+            {
+              "query": "online casinos 🇬🇧 www.casinoganino.blog",
+              "value": 80250
+            },
+            {
+              "query": "online casino 🇳🇱 jeroencasino.one",
+              "value": 75650
+            },
+            {
+              "query": "casinos online 🇧🇪 www.casinoganino.blog",
+              "value": 73450
+            },
+            {
+              "query": "casino 🇩🇪 stefancasino.one",
+              "value": 68900
+            },
+            {
+              "query": "casino online non aams 🇮🇹 www.casinoganino.blog",
+              "value": 67550
+            },
+            {
+              "query": "online casino 🇩🇪 stefancasino.one",
+              "value": 67050
+            },
+            {
+              "query": "beste online casino 🇩🇪 www.casinoganino.blog",
+              "value": 58650
+            },
+            {
+              "query": "neue online casino 🇩🇪 www.casinoganino.blog",
+              "value": 41800
+            },
+            {
+              "query": "casa de apuestas 🇪🇸 www.casinoganino.blog",
+              "value": 38200
+            },
+            {
+              "query": "best online casinos 🇦🇺 www.casinoganino.blog",
+              "value": 37100
+            },
+            {
+              "query": "online casino 🇪🇸 www.casinobimo.blog",
+              "value": 80
+            },
+            {
+              "query": "casino 🇪🇸 www.casinobimo.blog",
+              "value": 80
+            },
+            {
+              "query": "online casinos 🇬🇧 2026 www.casinobimo.blog",
+              "value": 70
+            },
+            {
+              "query": "online casino 🇬🇧 2026 www.casinobimo.blog",
+              "value": 70
+            },
+            {
+              "query": "online casino 🇳🇱 2026 www.casinobimo.blog",
+              "value": 60
+            },
+            {
+              "query": "casino online 🇮🇹 2026 www.casinobimo.blog",
+              "value": 50
+            }
+          ]
+        },
+        {
+          "keyword": "Maker",
+          "timestamp": "2026-11-25 07:58:04",
+          "filename": "related_queries_Maker_20261125_075804.json",
+          "top": [
+            {
+              "query": "coffee maker",
+              "value": 100
+            },
+            {
+              "query": "best coffee maker",
+              "value": 47
+            },
+            {
+              "query": "the maker",
+              "value": 45
+            },
+            {
+              "query": "ice maker",
+              "value": 45
+            },
+            {
+              "query": "video maker",
+              "value": 26
+            },
+            {
+              "query": "ninja",
+              "value": 17
+            },
+            {
+              "query": "website maker",
+              "value": 15
+            },
+            {
+              "query": "ice cream maker",
+              "value": 14
+            },
+            {
+              "query": "instagram video download without water maker",
+              "value": 12
+            },
+            {
+              "query": "instagram video download",
+              "value": 11
+            },
+            {
+              "query": "game maker",
+              "value": 11
+            },
+            {
+              "query": "maker world",
+              "value": 10
+            },
+            {
+              "query": "bread maker",
+              "value": 10
+            },
+            {
+              "query": "waffle maker",
+              "value": 10
+            },
+            {
+              "query": "pdf maker",
+              "value": 7
+            },
+            {
+              "query": "pizza maker",
+              "value": 7
+            },
+            {
+              "query": "cricut",
+              "value": 7
+            },
+            {
+              "query": "cricut maker",
+              "value": 7
+            },
+            {
+              "query": "espresso maker",
+              "value": 7
+            },
+            {
+              "query": "logo maker",
+              "value": 6
+            },
+            {
+              "query": "keurig coffee maker",
+              "value": 6
+            },
+            {
+              "query": "ninja coffee maker",
+              "value": 6
+            },
+            {
+              "query": "gif maker",
+              "value": 6
+            },
+            {
+              "query": "music maker",
+              "value": 6
+            },
+            {
+              "query": "gif",
+              "value": 6
+            }
+          ],
+          "rising": [
+            {
+              "query": "activision custom gaming cake maker",
+              "value": 24750
+            },
+            {
+              "query": "my eight year old fortune maker",
+              "value": 350
+            },
+            {
+              "query": "sonic ice maker",
+              "value": 170
+            },
+            {
+              "query": "best office chair",
+              "value": 120
+            },
+            {
+              "query": "best budget phone",
+              "value": 120
+            },
+            {
+              "query": "best travel backpack",
+              "value": 110
+            },
+            {
+              "query": "best laptops",
+              "value": 110
+            },
+            {
+              "query": "best running shoes",
+              "value": 110
+            },
+            {
+              "query": "best pizza recipe",
+              "value": 110
+            },
+            {
+              "query": "best hiking boots",
+              "value": 100
+            },
+            {
+              "query": "best coffee maker",
+              "value": 90
+            },
+            {
+              "query": "website maker",
+              "value": 60
+            },
+            {
+              "query": "pizza maker",
+              "value": 60
+            },
+            {
+              "query": "game maker hunger games",
+              "value": 50
+            }
+          ]
+        },
+        {
+          "keyword": "Editor",
+          "timestamp": "2026-11-25 07:58:04",
+          "filename": "related_queries_Editor_20261125_075804.json",
+          "top": [
+            {
+              "query": "pdf",
+              "value": 100
+            },
+            {
+              "query": "pdf editor",
+              "value": 98
+            },
+            {
+              "query": "online editor",
+              "value": 60
+            },
+            {
+              "query": "video editor",
+              "value": 57
+            },
+            {
+              "query": "ai editor",
+              "value": 42
+            },
+            {
+              "query": "photo editor",
+              "value": 38
+            },
+            {
+              "query": "online pdf editor",
+              "value": 27
+            },
+            {
+              "query": "pdf editor free",
+              "value": 20
+            },
+            {
+              "query": "image editor",
+              "value": 18
+            },
+            {
+              "query": "photo ai editor",
+              "value": 17
+            },
+            {
+              "query": "text editor",
+              "value": 12
+            },
+            {
+              "query": "sejda",
+              "value": 12
+            },
+            {
+              "query": "sejda pdf",
+              "value": 12
+            },
+            {
+              "query": "vikas editor",
+              "value": 11
+            },
+            {
+              "query": "sejda editor",
+              "value": 11
+            },
+            {
+              "query": "pdf editor sejda",
+              "value": 11
+            },
+            {
+              "query": "save editor",
+              "value": 11
+            },
+            {
+              "query": "free pdf editor online",
+              "value": 10
+            },
+            {
+              "query": "video editor free",
+              "value": 10
+            },
+            {
+              "query": "free video editor",
+              "value": 10
+            },
+            {
+              "query": "video editor ai",
+              "value": 9
+            },
+            {
+              "query": "word editor",
+              "value": 9
+            },
+            {
+              "query": "code editor",
+              "value": 8
+            },
+            {
+              "query": "photo editor free",
+              "value": 8
+            },
+            {
+              "query": "ai image editor",
+              "value": 8
+            }
+          ],
+          "rising": [
+            {
+              "query": "แทง บอล ออนไลน์ editor pgstar777 cfd",
+              "value": 81700
+            },
+            {
+              "query": "บา คา ร่า ออนไลน์ editor pgstar777 cfd",
+              "value": 77200
+            },
+            {
+              "query": "คา สิ โน ออนไลน์ editor pgstar777 cfd",
+              "value": 77100
+            },
+            {
+              "query": "royalin.watch",
+              "value": 21900
+            },
+            {
+              "query": "megaaa.casa",
+              "value": 18350
+            },
+            {
+              "query": "lemonet.casa",
+              "value": 17200
+            },
+            {
+              "query": "casino ohne oasis sperre 🇩🇪 www.casinoganino.blog",
+              "value": 17150
+            },
+            {
+              "query": "kangton.lol",
+              "value": 16650
+            },
+            {
+              "query": "casino ohne oasis sperre 🇩🇪 casinobino.online",
+              "value": 16650
+            },
+            {
+              "query": "ufoo.life",
+              "value": 16450
+            },
+            {
+              "query": "rkss.yachts",
+              "value": 13800
+            },
+            {
+              "query": "pandat.sbs",
+              "value": 10950
+            },
+            {
+              "query": "mamii.cyou",
+              "value": 10600
+            },
+            {
+              "query": "betons.life",
+              "value": 10050
+            },
+            {
+              "query": "slotion.network",
+              "value": 8450
+            },
+            {
+              "query": "alexison.wiki",
+              "value": 8150
+            },
+            {
+              "query": "angkasaa.bond",
+              "value": 7300
+            },
+            {
+              "query": "dewix.sbs",
+              "value": 5900
+            },
+            {
+              "query": "paluuh.lol",
+              "value": 4400
+            },
+            {
+              "query": "badakit.fit",
+              "value": 3700
+            }
+          ]
+        }
+      ],
+      "missing_keywords": [
+        "Convert",
+        "Downloader",
+        "Creator",
+        "Processor"
+      ],
+      "configured_keywords": 10,
+      "successful_keywords": 6
+    },
+    {
+      "name": "Design And Delivery",
+      "slug": "design-and-delivery",
+      "snapshots": [
+        {
+          "keyword": "Evaluator",
+          "timestamp": "2026-11-25 08:05:39",
+          "filename": "related_queries_Evaluator_20261125_080539.json",
+          "top": [
+            {
+              "query": "trade evaluator",
+              "value": 100
+            },
+            {
+              "query": "fantasy trade evaluator",
+              "value": 65
+            },
+            {
+              "query": "ai evaluator jobs",
+              "value": 46
+            },
+            {
+              "query": "fantasy football trade evaluator",
+              "value": 43
+            },
+            {
+              "query": "search engine evaluator",
+              "value": 40
+            },
+            {
+              "query": "evaluator meaning",
+              "value": 31
+            },
+            {
+              "query": "home evaluator",
+              "value": 25
+            },
+            {
+              "query": "skill evaluator",
+              "value": 24
+            },
+            {
+              "query": "csp evaluator",
+              "value": 20
+            },
+            {
+              "query": "car evaluator",
+              "value": 16
+            },
+            {
+              "query": "rws",
+              "value": 15
+            },
+            {
+              "query": "evaluator crossword",
+              "value": 15
+            },
+            {
+              "query": "website evaluator",
+              "value": 14
+            },
+            {
+              "query": "property evaluator",
+              "value": 14
+            },
+            {
+              "query": "search engine evaluator jobs",
+              "value": 14
+            },
+            {
+              "query": "evaluator crossword clue",
+              "value": 14
+            },
+            {
+              "query": "custody evaluator",
+              "value": 13
+            },
+            {
+              "query": "resume evaluator",
+              "value": 11
+            },
+            {
+              "query": "ep evaluator",
+              "value": 9
+            },
+            {
+              "query": "evaluator imobiliar",
+              "value": 9
+            },
+            {
+              "query": "micro1",
+              "value": 8
+            },
+            {
+              "query": "migration evaluator",
+              "value": 8
+            },
+            {
+              "query": "indeed",
+              "value": 6
+            },
+            {
+              "query": "nfl trade evaluator",
+              "value": 5
+            },
+            {
+              "query": "pokemon card evaluator",
+              "value": 5
+            }
+          ],
+          "rising": [
+            {
+              "query": "xpath evaluator",
+              "value": 11650
+            },
+            {
+              "query": "indeed",
+              "value": 180
+            },
+            {
+              "query": "resume evaluator",
+              "value": 160
+            },
+            {
+              "query": "enterprise damage evaluator",
+              "value": 80
+            },
+            {
+              "query": "fairy agent evaluator",
+              "value": 80
+            },
+            {
+              "query": "evaluator imobiliar",
+              "value": 70
+            },
+            {
+              "query": "nfl trade evaluator",
+              "value": 60
+            },
+            {
+              "query": "pokemon card evaluator",
+              "value": 40
+            },
+            {
+              "query": "akc cgc evaluator",
+              "value": 40
+            }
+          ]
+        }
+      ],
+      "missing_keywords": [
+        "Designer",
+        "Compiler",
+        "Analyzer",
+        "Sender",
+        "Receiver",
+        "Interpreter",
+        "Uploader",
+        "Calculator",
+        "Sample"
+      ],
+      "configured_keywords": 10,
+      "successful_keywords": 1
+    },
+    {
+      "name": "Templates And Discovery",
+      "slug": "templates-and-discovery",
+      "snapshots": [],
+      "missing_keywords": [
+        "Template",
+        "Format",
+        "Builder",
+        "Scheme",
+        "Pattern",
+        "Checker",
+        "Detector",
+        "Scraper",
+        "Manager",
+        "Explorer"
+      ],
+      "configured_keywords": 10,
+      "successful_keywords": 0
+    },
+    {
+      "name": "Planning And Tracking",
+      "slug": "planning-and-tracking",
+      "snapshots": [],
+      "missing_keywords": [
+        "Dashboard",
+        "Planner",
+        "Tracker",
+        "Recorder",
+        "Optimizer"
+      ],
+      "configured_keywords": 5,
+      "successful_keywords": 0
+    },
+    {
+      "name": "Automation And Monitoring",
+      "slug": "automation-and-monitoring",
+      "snapshots": [],
+      "missing_keywords": [
+        "Scheduler",
+        "Converter",
+        "Viewer",
+        "Extractor",
+        "Monitor",
+        "Notifier",
+        "Verifier",
+        "Simulator",
+        "Assistant",
+        "Constructor"
+      ],
+      "configured_keywords": 10,
+      "successful_keywords": 0
+    },
+    {
+      "name": "Navigation And Response",
+      "slug": "navigation-and-response",
+      "snapshots": [],
+      "missing_keywords": [
+        "Comparator",
+        "Navigator",
+        "Syncer",
+        "Connector",
+        "Cataloger",
+        "Responder"
+      ],
+      "configured_keywords": 6,
+      "successful_keywords": 0
+    }
+  ],
+  "high_rising_trends": [
+    {
+      "keyword": "Online",
+      "query": "online casino 🇩🇪 charlescasinos.sbs",
+      "value": 147650
+    },
+    {
+      "keyword": "Online",
+      "query": "casinos online 🇪🇸 www.casinoganino.blog",
+      "value": 135050
+    },
+    {
+      "keyword": "Online",
+      "query": "casino 🇬🇧 www.casinoganino.blog",
+      "value": 93450
+    },
+    {
+      "keyword": "Online",
+      "query": "online casino 🇩🇪 casinod.cv",
+      "value": 92500
+    },
+    {
+      "keyword": "Online",
+      "query": "casino online österreich 🇦🇹 atboni.sbs 🇦🇹",
+      "value": 92250
+    },
+    {
+      "keyword": "Online",
+      "query": "online casinos 🇦🇺 www.casinoganino.blog",
+      "value": 86100
+    },
+    {
+      "keyword": "Online",
+      "query": "online casinos 🇬🇧 www.casinoganino.blog",
+      "value": 80250
+    },
+    {
+      "keyword": "Online",
+      "query": "online casino 🇳🇱 jeroencasino.one",
+      "value": 75650
+    },
+    {
+      "keyword": "Online",
+      "query": "casinos online 🇧🇪 www.casinoganino.blog",
+      "value": 73450
+    },
+    {
+      "keyword": "Online",
+      "query": "casino 🇩🇪 stefancasino.one",
+      "value": 68900
+    },
+    {
+      "keyword": "Online",
+      "query": "casino online non aams 🇮🇹 www.casinoganino.blog",
+      "value": 67550
+    },
+    {
+      "keyword": "Online",
+      "query": "online casino 🇩🇪 stefancasino.one",
+      "value": 67050
+    },
+    {
+      "keyword": "Online",
+      "query": "beste online casino 🇩🇪 www.casinoganino.blog",
+      "value": 58650
+    },
+    {
+      "keyword": "Online",
+      "query": "neue online casino 🇩🇪 www.casinoganino.blog",
+      "value": 41800
+    },
+    {
+      "keyword": "Online",
+      "query": "casa de apuestas 🇪🇸 www.casinoganino.blog",
+      "value": 38200
+    },
+    {
+      "keyword": "Online",
+      "query": "best online casinos 🇦🇺 www.casinoganino.blog",
+      "value": 37100
+    },
+    {
+      "keyword": "Maker",
+      "query": "activision custom gaming cake maker",
+      "value": 24750
+    },
+    {
+      "keyword": "Editor",
+      "query": "แทง บอล ออนไลน์ editor pgstar777 cfd",
+      "value": 81700
+    },
+    {
+      "keyword": "Editor",
+      "query": "บา คา ร่า ออนไลน์ editor pgstar777 cfd",
+      "value": 77200
+    },
+    {
+      "keyword": "Editor",
+      "query": "คา สิ โน ออนไลน์ editor pgstar777 cfd",
+      "value": 77100
+    },
+    {
+      "keyword": "Editor",
+      "query": "royalin.watch",
+      "value": 21900
+    },
+    {
+      "keyword": "Editor",
+      "query": "megaaa.casa",
+      "value": 18350
+    },
+    {
+      "keyword": "Editor",
+      "query": "lemonet.casa",
+      "value": 17200
+    },
+    {
+      "keyword": "Editor",
+      "query": "casino ohne oasis sperre 🇩🇪 www.casinoganino.blog",
+      "value": 17150
+    },
+    {
+      "keyword": "Editor",
+      "query": "kangton.lol",
+      "value": 16650
+    },
+    {
+      "keyword": "Editor",
+      "query": "casino ohne oasis sperre 🇩🇪 casinobino.online",
+      "value": 16650
+    },
+    {
+      "keyword": "Editor",
+      "query": "ufoo.life",
+      "value": 16450
+    },
+    {
+      "keyword": "Editor",
+      "query": "rkss.yachts",
+      "value": 13800
+    },
+    {
+      "keyword": "Editor",
+      "query": "pandat.sbs",
+      "value": 10950
+    },
+    {
+      "keyword": "Editor",
+      "query": "mamii.cyou",
+      "value": 10600
+    },
+    {
+      "keyword": "Editor",
+      "query": "betons.life",
+      "value": 10050
+    },
+    {
+      "keyword": "Editor",
+      "query": "slotion.network",
+      "value": 8450
+    },
+    {
+      "keyword": "Editor",
+      "query": "alexison.wiki",
+      "value": 8150
+    },
+    {
+      "keyword": "Editor",
+      "query": "angkasaa.bond",
+      "value": 7300
+    },
+    {
+      "keyword": "Editor",
+      "query": "dewix.sbs",
+      "value": 5900
+    },
+    {
+      "keyword": "Editor",
+      "query": "paluuh.lol",
+      "value": 4400
+    },
+    {
+      "keyword": "Editor",
+      "query": "badakit.fit",
+      "value": 3700
+    },
+    {
+      "keyword": "Evaluator",
+      "query": "xpath evaluator",
+      "value": 11650
+    }
+  ],
+  "summary": {
+    "configured_keywords": 51,
+    "successful_keywords": 7,
+    "failed_keywords": 44,
+    "high_rising_count": 38
+  },
+  "files": {
+    "csv": "data/20261125/daily_report_20261125.csv",
+    "json": "data/20261125/snapshot.json",
+    "history": "data/history.json",
+    "assets": [
+      "data/20261125/daily_report_20261125.csv",
+      "data/20261125/related_queries_Editor_20261125_075804.json",
+      "data/20261125/related_queries_Evaluator_20261125_080539.json",
+      "data/20261125/related_queries_Example_20261125_075804.json",
+      "data/20261125/related_queries_Generator_20261125_075804.json",
+      "data/20261125/related_queries_Maker_20261125_075804.json",
+      "data/20261125/related_queries_Online_20261125_075804.json",
+      "data/20261125/related_queries_Translator_20261125_075804.json"
+    ]
+  }
+}
